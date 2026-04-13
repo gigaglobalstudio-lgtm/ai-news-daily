@@ -5,8 +5,26 @@
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 13 Apr 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 01:00:00 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[OpenAI·Anthropic·구글, 중국 AI 복제 공작에 공동 대응]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260413180006</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260413180006</guid>
+      <pubDate>Mon, 13 Apr 2026 01:00:00 GMT</pubDate>
+      <category>정책</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[OpenAI, Anthropic, 구글이 중국 AI 기업들의 조직적 모델 복제에 맞서 Frontier Model Forum을 통한 위협 정보 공유 체계를 가동했다. Anthropic은 중국 3개 기업이 2만4천 개 위조 계정으로 1,600만 건의 쿼리를 추출했다고 밝혔다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[NVIDIA, 로봇 AI 훈련 데이터 팩토리 블루프린트 오픈소스 공개]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260413180007</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260413180007</guid>
+      <pubDate>Mon, 13 Apr 2026 01:00:00 GMT</pubDate>
+      <category>AI 연구</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[NVIDIA가 로봇·자율주행·비전 AI 에이전트 훈련 데이터 생성을 통합 자동화하는 물리 AI 데이터 팩토리 블루프린트를 오픈소스로 공개했다. 뉴턴 1.0 물리 엔진도 함께 출시됐으며, 외과 로봇부터 100MW 태양광 설치 로봇까지 실제 현장 적용 사례가 동시에 발표됐다.]]></description>
+    </item>
     <item>
       <title><![CDATA[메타 'Muse Spark' 공개, OpenAI·구글과 정면 승부]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260413180001</link>
@@ -258,24 +276,6 @@
       <category>컬처</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[MIT 연구팀이 인간의 뇌파 신호를 직접 AI 모델 훈련에 활용하는 '뉴로-러닝(Neuro-Learning)' 기술을 개발했다고 발표했다. 기존 방식 대비 학습 효율이 5배 향상되었으며, 인간의 직관적 사고 과정을 AI가 학습할 수 있게 되었다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[구글, 'Gemini Ultra 2.0' 깜짝 발표...멀티모달 AI 새 지평 열다]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180003</guid>
-      <pubDate>Wed, 01 Apr 2026 00:15:33 GMT</pubDate>
-      <category>컬처</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[구글이 3월 31일 차세대 AI 모델 'Gemini Ultra 2.0'을 깜짝 발표했다. 실시간 영상 이해와 3D 공간 인식 기능을 탑재해 AI 활용 영역을 크게 확장했다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[정부, 'AI 안전법' 4월 국회 통과 목표...규제 vs 혁신 논란 가열]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180004</guid>
-      <pubDate>Tue, 31 Mar 2026 23:45:17 GMT</pubDate>
-      <category>정책</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[정부가 AI 개발과 활용에 대한 종합적 규제 법안인 'AI 안전법'의 4월 국회 통과를 목표로 한다고 발표했다. 업계에서는 과도한 규제 우려와 혁신 저해 논란이 제기되고 있다.]]></description>
     </item>
   </channel>
 </rss>
