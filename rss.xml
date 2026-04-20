@@ -5,8 +5,53 @@
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 17 Apr 2026 09:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 09:00:00 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[스탠포드 AI 인덱스 2026: 미중 AI 격차 2.7%로 좁혀졌다]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180001</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180001</guid>
+      <pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
+      <category>AI 연구</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[스탠포드 HAI가 발표한 2026 AI 인덱스 보고서에 따르면 미국의 AI 우위가 2023년 최대 31%p에서 2.7%로 급격히 좁혀졌다. AI 연구자 미국 유입은 89% 감소했고, 생성형 AI 인구 채택률은 53%로 인터넷보다 빠른 확산 속도를 기록했다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[PwC 조사: AI 이익의 75%를 상위 20% 기업이 독식한다]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180002</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180002</guid>
+      <pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[PwC가 발표한 2026 AI 성과 연구에 따르면 AI 경제적 이익의 75%를 전체의 20%에 불과한 기업이 가져가고 있다. 선두 기업들은 생산성 향상보다 성장 전략을 우선시하며 후발 기업들과의 격차를 벌리고 있다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[구글, 추론·에이전트 특화 오픈소스 'Gemma 4' 공개]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180003</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180003</guid>
+      <pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
+      <category>LLM</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[구글이 고급 추론과 에이전트 워크플로우에 특화된 오픈 모델 시리즈 Gemma 4를 발표했다. 기존 Gemma 시리즈 최고 성능 모델로, 멀티모달 입력을 지원하며 상업적 활용도 무료로 허용된다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[한국 AI 프라이버시 민관 정책협의회 출범...에이전트 AI 시대 선제 대응]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180004</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180004</guid>
+      <pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
+      <category>정책</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[정부가 에이전트 AI, 피지컬 AI 확산에 대응하는 AI 프라이버시 민관 정책협의회를 출범시켰다. 에이전트 AI 데이터 처리, 리스크 관리, 정보주체 권리 등 3개 분과로 운영되며 하반기 가이드라인 발표를 목표로 한다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Visa, AI 에이전트가 대신 쇼핑·결제하는 플랫폼 출시]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180005</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180005</guid>
+      <pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[Visa가 AI 에이전트가 사용자를 대신해 상품을 검색하고 구매까지 완료하는 결제 플랫폼 Intelligent Commerce Connect를 출시했다. AI 에이전트 기반 자율 거래 시장의 결제 인프라 표준을 선점하려는 전략이다.]]></description>
+    </item>
     <item>
       <title><![CDATA[삼성전자, 차세대 HBM4 메모리로 AI 반도체 시장 선점 나서]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260417180001</link>
@@ -231,51 +276,6 @@
       <category>기업</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[현대자동차가 제네시스 브랜드에 ChatGPT 기반 AI 어시스턴트를 탑재한다고 발표했다. 자연어 대화로 차량 제어부터 개인 비서 기능까지 제공하며, 올해 하반기 신차부터 적용된다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[EU AI법 본격 시행... 한국 AI 기업들 유럽 진출 전략 수정 불가피]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260402180003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260402180003</guid>
-      <pubDate>Thu, 02 Apr 2026 09:00:03 GMT</pubDate>
-      <category>정책</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[유럽연합의 AI법(AI Act)이 4월 1일부터 본격 시행되면서 한국 AI 기업들의 유럽 진출 전략에 큰 변화가 예상된다. 고위험 AI 시스템에 대한 엄격한 규제가 핵심이다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI GPT-5 공식 발표... 추론능력 10배 향상, 코딩 전문가 수준 달성]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260402180002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260402180002</guid>
-      <pubDate>Thu, 02 Apr 2026 09:00:02 GMT</pubDate>
-      <category>모델</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[OpenAI가 차세대 언어모델 GPT-5를 공식 발표했다. 복잡한 수학 문제 해결률이 95%에 달하며, 코딩 능력은 시니어 개발자 수준에 도달했다고 밝혔다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[삼성전자, 차세대 AI 메모리 'HBM4' 양산 돌입... NVIDIA와 공급계약 체결]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260402180001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260402180001</guid>
-      <pubDate>Thu, 02 Apr 2026 09:00:01 GMT</pubDate>
-      <category>기업</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[삼성전자가 차세대 고대역폭 메모리 HBM4의 양산을 시작하며 NVIDIA와 대규모 공급계약을 체결했다고 발표했다. 기존 HBM3 대비 2배 빠른 처리속도와 30% 향상된 전력효율을 자랑한다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[삼성전자, 차세대 AI 반도체 'Orion-7' 공개...TSMC 3나노 제친다]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180001</guid>
-      <pubDate>Wed, 01 Apr 2026 02:05:55 GMT</pubDate>
-      <category>기업</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[삼성전자가 3월 31일 차세대 AI 전용 반도체 'Orion-7'을 공개했다. 2나노 공정 기반으로 TSMC 대비 30% 향상된 성능을 자랑하며, 2026년 하반기 양산 예정이다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[네이버, 초거대 AI '하이퍼클로바X 3.0' 출시...GPT-4 성능 넘어섰다]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180002</guid>
-      <pubDate>Wed, 01 Apr 2026 01:30:22 GMT</pubDate>
-      <category>모델</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[네이버가 3월 30일 자체 개발한 초거대 AI 모델 '하이퍼클로바X 3.0'을 공식 출시했다. 한국어 성능에서 GPT-4를 앞서며, B2B 시장 공략에 본격 나선다.]]></description>
     </item>
   </channel>
 </rss>
