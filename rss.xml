@@ -8,49 +8,49 @@
     <lastBuildDate>Tue, 21 Apr 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title><![CDATA[ChatGPT, 4월 20일 대규모 접속 장애...수만 명 피해]]></title>
+      <title><![CDATA[ChatGPT, 4월 20일 4시간 먹통...글로벌 수십만 명 업무 마비]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090001</link>
       <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090001</guid>
       <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
       <category>기업 AI</category>
       <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[ChatGPT가 4월 20일 오전(현지시각) 대규모 접속 장애를 일으켰다. 한국 시간 저녁부터 자정 사이 수만 명의 사용자가 서비스를 이용하지 못했으며, OpenAI는 복구 완료까지 약 4시간이 걸렸다고 밝혔다.]]></description>
+      <description><![CDATA[ChatGPT가 4월 20일 오전 10시 5분(미국 동부시각)부터 약 4시간 동안 전 세계적으로 접속 장애를 일으켰다. Downdetector 신고 건수가 평소의 150배로 폭증했으며, API에 의존하는 수천 개 B2B 서비스가 연쇄 중단됐다. 단일 AI 제공업체 의존의 리스크가 다시 부각됐다.]]></description>
     </item>
     <item>
-      <title><![CDATA[SK하이닉스, HBM4 시장점유율 70% 전망...엔비디아 루빈 독점 공급]]></title>
+      <title><![CDATA[SK하이닉스, HBM4로 엔비디아 '루빈' 독점 공급...주가 113만원 최고가]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090002</link>
       <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090002</guid>
       <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
       <category>테크</category>
       <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[UBS는 2026년 SK하이닉스가 엔비디아 차세대 '루빈' GPU 플랫폼에 탑재될 HBM4 시장에서 약 70%의 점유율을 달성할 것으로 전망했다. SK하이닉스 주가는 장중 113만원을 돌파하며 사상 최고가를 경신했다.]]></description>
+      <description><![CDATA[UBS는 SK하이닉스가 엔비디아 차세대 GPU '루빈' 플랫폼용 HBM4 시장에서 약 70% 점유율을 확보할 것으로 전망했다. 주가는 4월 중 113만원을 돌파해 시총 110조원을 달성했으며, 씨티증권은 목표주가 170만원을 제시했다. 삼성전자는 품질 검증 지연으로 격차 확대 중이다.]]></description>
     </item>
     <item>
-      <title><![CDATA[OpenAI, 보안 전문가용 GPT-5.4-Cyber 출시...방어적 사이버보안 특화]]></title>
+      <title><![CDATA[OpenAI 'GPT-5.4-Cyber' 출시...보안팀 생산성 5배 증대]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090003</link>
       <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090003</guid>
       <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
       <category>LLM</category>
       <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[OpenAI가 방어적 사이버보안 분야에 최적화된 GPT-5.4-Cyber를 보안팀 대상으로 출시했다. 취약점 분석, 위협 인텔리전스, 사고 대응 시나리오에서 기존 모델 대비 크게 향상된 성능을 보인다.]]></description>
+      <description><![CDATA[OpenAI가 방어적 사이버보안에 최적화된 GPT-5.4-Cyber를 엔터프라이즈 고객 대상으로 출시했다. 취약점 분석 오탐율을 기존 SAST 대비 78% 낮췄고, MITRE ATT&CK 매핑, 다크웹 위협 인텔리전스, 사고 대응 플레이북 자동 생성을 지원한다. Arctic Wolf, Palo Alto Networks가 즉시 통합을 발표했다.]]></description>
     </item>
     <item>
-      <title><![CDATA[Snap CEO, AI 이유로 직원 1,000명 해고..."더 작은 팀으로 같은 성과"]]></title>
+      <title><![CDATA[Snap, 1,000명 해고하며 'AI 때문'이라 명시...노동시장 전환점]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090004</link>
       <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090004</guid>
       <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
       <category>기업 AI</category>
       <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[Snap CEO 에반 스피겔이 AI 기술의 급격한 발전을 이유로 전체 인력의 약 14%인 1,000명을 해고한다고 발표했다. 300개 이상의 채용 공고도 취소됐다. AI가 바꾸는 노동 구조의 실제 사례가 현실화됐다.]]></description>
+      <description><![CDATA[Snap CEO 에반 스피겔이 전체 인력의 약 14%인 1,000명을 해고하며 감원 사유로 'AI의 급격한 발전'을 직접 명시했다. 300개 채용 공고도 취소됐다. 엔지니어링·마케팅·콘텐츠 부서가 집중 타격을 입었고, 절감 비용은 AI 인프라에 재투자된다. AI발 구조조정이 공식화되는 분기점이다.]]></description>
     </item>
     <item>
-      <title><![CDATA[OpenAI, 생명과학 추론 모델 'GPT-Rosalind' 연구 공개]]></title>
+      <title><![CDATA[OpenAI 'GPT-Rosalind' 공개...신약 개발 6년을 6개월로]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090005</link>
       <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090005</guid>
       <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
       <category>AI 연구</category>
       <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[OpenAI가 생물학, 신약 개발, 중개 의학에 특화된 추론 모델 GPT-Rosalind를 연구 프리뷰로 공개했다. 단백질 구조 예측, 임상 시험 설계, 유전체 해석 등에서 기존 범용 모델 대비 월등한 성능을 자랑한다.]]></description>
+      <description><![CDATA[OpenAI가 생명과학 추론 모델 GPT-Rosalind를 연구 프리뷰로 공개했다. 단백질-약물 결합 예측 정확도 91%, 임상 시험 설계 자동화, 유전체 변이 해석 등에서 기존 AlphaFold+인간 전문가 조합보다 우수한 성능을 보였다. 화이자, 노바티스, 모더나가 이미 파트너십을 체결했으며, 한국의 셀트리온·한미약품도 도입을 검토 중이다.]]></description>
     </item>
     <item>
       <title><![CDATA[스탠포드 AI 인덱스 2026: 미중 AI 격차 2.7%로 좁혀졌다]]></title>
