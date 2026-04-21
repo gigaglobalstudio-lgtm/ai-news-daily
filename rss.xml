@@ -5,8 +5,53 @@
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 20 Apr 2026 09:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[ChatGPT, 4월 20일 대규모 접속 장애...수만 명 피해]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090001</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090001</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[ChatGPT가 4월 20일 오전(현지시각) 대규모 접속 장애를 일으켰다. 한국 시간 저녁부터 자정 사이 수만 명의 사용자가 서비스를 이용하지 못했으며, OpenAI는 복구 완료까지 약 4시간이 걸렸다고 밝혔다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[SK하이닉스, HBM4 시장점유율 70% 전망...엔비디아 루빈 독점 공급]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090002</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090002</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[UBS는 2026년 SK하이닉스가 엔비디아 차세대 '루빈' GPU 플랫폼에 탑재될 HBM4 시장에서 약 70%의 점유율을 달성할 것으로 전망했다. SK하이닉스 주가는 장중 113만원을 돌파하며 사상 최고가를 경신했다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI, 보안 전문가용 GPT-5.4-Cyber 출시...방어적 사이버보안 특화]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090003</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090003</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+      <category>LLM</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[OpenAI가 방어적 사이버보안 분야에 최적화된 GPT-5.4-Cyber를 보안팀 대상으로 출시했다. 취약점 분석, 위협 인텔리전스, 사고 대응 시나리오에서 기존 모델 대비 크게 향상된 성능을 보인다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Snap CEO, AI 이유로 직원 1,000명 해고..."더 작은 팀으로 같은 성과"]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090004</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090004</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[Snap CEO 에반 스피겔이 AI 기술의 급격한 발전을 이유로 전체 인력의 약 14%인 1,000명을 해고한다고 발표했다. 300개 이상의 채용 공고도 취소됐다. AI가 바꾸는 노동 구조의 실제 사례가 현실화됐다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI, 생명과학 추론 모델 'GPT-Rosalind' 연구 공개]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090005</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090005</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+      <category>AI 연구</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[OpenAI가 생물학, 신약 개발, 중개 의학에 특화된 추론 모델 GPT-Rosalind를 연구 프리뷰로 공개했다. 단백질 구조 예측, 임상 시험 설계, 유전체 해석 등에서 기존 범용 모델 대비 월등한 성능을 자랑한다.]]></description>
+    </item>
     <item>
       <title><![CDATA[스탠포드 AI 인덱스 2026: 미중 AI 격차 2.7%로 좁혀졌다]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180001</link>
@@ -231,51 +276,6 @@
       <category>기업</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[카카오가 AI 기반 완전 자율주행 택시 '카카오 오토'의 서울 시범 운행을 시작한다고 발표했다. 강남구와 서초구 일대에서 무인 택시 서비스를 제공하며, 우버의 한국 재진출과 정면 경쟁한다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[정부, 'K-AI 안전법' 초안 공개...글로벌 최초 포괄적 규제]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260405180003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260405180003</guid>
-      <pubDate>Sun, 05 Apr 2026 09:00:03 GMT</pubDate>
-      <category>정책</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[정부가 인공지능 안전과 윤리를 포괄하는 'K-AI 안전법' 초안을 공개했다. EU AI Act보다 더 구체적인 규제 체계를 제시하며, 국내외 AI 기업들의 주목을 받고 있다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[네이버 '하이퍼클로바X 3.0' 공개...GPT-5와 성능 경쟁]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260405180002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260405180002</guid>
-      <pubDate>Sun, 05 Apr 2026 09:00:02 GMT</pubDate>
-      <category>모델</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[네이버가 차세대 대형언어모델 '하이퍼클로바X 3.0'을 공개했다. 한국어 성능에서 GPT-4를 크게 앞서며, 곧 출시될 GPT-5와도 경쟁할 수준의 성능을 보여준다고 발표했다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[삼성전자, 3나노 AI 전용칩 양산 돌입...TSMC 격차 줄인다]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260405180001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260405180001</guid>
-      <pubDate>Sun, 05 Apr 2026 09:00:01 GMT</pubDate>
-      <category>기업</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[삼성전자가 3나노 공정 기반 AI 전용 반도체 양산에 본격 돌입한다고 발표했다. NVIDIA와 구글이 주요 고객으로 확정되며, TSMC와의 기술 격차를 크게 줄일 것으로 전망된다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[구글 딥마인드, 단백질 설계 AI 'AlphaFold 3' 공개... 신약개발 혁신]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260402180005</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260402180005</guid>
-      <pubDate>Thu, 02 Apr 2026 09:00:05 GMT</pubDate>
-      <category>컬처</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[구글 딥마인드가 단백질뿐만 아니라 DNA, RNA까지 설계할 수 있는 AI 모델 'AlphaFold 3'를 공개했다. 신약 개발 기간을 기존 10-15년에서 3-5년으로 단축할 수 있을 것으로 기대된다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[현대차 '제네시스 AI 어시스턴트' 출시... 차량 내 ChatGPT 탑재]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260402180004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260402180004</guid>
-      <pubDate>Thu, 02 Apr 2026 09:00:04 GMT</pubDate>
-      <category>기업</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[현대자동차가 제네시스 브랜드에 ChatGPT 기반 AI 어시스턴트를 탑재한다고 발표했다. 자연어 대화로 차량 제어부터 개인 비서 기능까지 제공하며, 올해 하반기 신차부터 적용된다.]]></description>
     </item>
   </channel>
 </rss>
