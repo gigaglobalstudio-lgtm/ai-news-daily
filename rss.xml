@@ -5,8 +5,35 @@
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 21 Apr 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 06:00:00 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[MIT '지금 중요한 AI 10가지' 발표...에이전트·추론·에너지 3대 축]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421150001</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421150001</guid>
+      <pubDate>Tue, 21 Apr 2026 06:00:00 GMT</pubDate>
+      <category>이벤트</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[MIT Technology Review가 4월 21일 EmTech AI 컨퍼런스 개막과 함께 '2026년 AI에서 가장 중요한 10가지'를 공개했다. AI 에이전트 상용화, 추론 모델 표준화, 데이터센터 에너지 위기, AI 저작권 소송, 합성 데이터 전환이 핵심 축으로 꼽혔다. 한국 기업 중 언급된 곳은 SK하이닉스와 네이버 HyperCLOVA X 뿐이다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[NVIDIA·Cadence, 로봇 'Sim-to-Real' 격차 해결 선언...피지컬 AI 본격화]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421150002</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421150002</guid>
+      <pubDate>Tue, 21 Apr 2026 06:00:00 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[NVIDIA와 Cadence가 CadenceLIVE Silicon Valley 2026에서 확대 파트너십을 발표했다. Cadence의 멀티피직스 시뮬레이션과 NVIDIA의 Isaac 로보틱스 라이브러리·Cosmos 월드 모델을 결합해 로봇 훈련의 'Sim-to-Real' 격차를 해결한다는 구상이다. 현대로보틱스·삼성전자 로봇사업부가 1차 도입 대상에 올랐다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[IEA 경고: 2030년 AI 데이터센터 전력, 일본 전체 소비량 넘는다]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421150003</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421150003</guid>
+      <pubDate>Tue, 21 Apr 2026 06:00:00 GMT</pubDate>
+      <category>정책</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[국제에너지기구(IEA)가 4월 20일 보고서에서 2030년 전 세계 AI 데이터센터 전력 소비가 945TWh로 일본 전체 연간 전력 소비(약 860TWh)를 초과할 것이라고 경고했다. 구글·마이크로소프트는 SMR(소형모듈원전) 계약을 잇따라 체결 중이며, 한국전력도 15조원 규모 AI 전용 송전망 투자를 발표했다.]]></description>
+    </item>
     <item>
       <title><![CDATA[ChatGPT, 4월 20일 4시간 먹통...글로벌 수십만 명 업무 마비]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090001</link>
@@ -249,33 +276,6 @@
       <category>연구</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[스탠포드 인간중심AI연구소가 연례 AI 인덱스 보고서를 공개했다. GPT-3.5급 성능을 내는 모델의 추론 비용이 2년 만에 95% 하락한 것으로 나타났다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[MIT, 트랜스포머 대체할 '선형 어텐션' 새 아키텍처 발표]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260408120001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260408120001</guid>
-      <pubDate>Wed, 08 Apr 2026 06:50:37 GMT</pubDate>
-      <category>연구</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[MIT CSAIL이 기존 트랜스포머 대비 메모리 사용량을 70% 줄이면서도 동등한 성능을 보이는 선형 어텐션 모델을 공개했다. 장문 추론에서 4배 빠른 처리 속도를 기록했다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[MIT 연구진, '양자-AI 융합칩' 개발...연산 속도 1000배 향상]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260405180005</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260405180005</guid>
-      <pubDate>Sun, 05 Apr 2026 09:00:05 GMT</pubDate>
-      <category>컬처</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[MIT 연구진이 양자컴퓨팅과 AI를 결합한 혁신적인 프로세서를 개발했다고 발표했다. 기존 AI 칩 대비 1000배 빠른 연산 속도를 구현하며, 암호화 해독과 신약 개발 분야에 혁명을 가져올 전망이다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[카카오, AI 자율주행 택시 서울 시범 운행...우버와 맞대결]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260405180004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260405180004</guid>
-      <pubDate>Sun, 05 Apr 2026 09:00:04 GMT</pubDate>
-      <category>기업</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[카카오가 AI 기반 완전 자율주행 택시 '카카오 오토'의 서울 시범 운행을 시작한다고 발표했다. 강남구와 서초구 일대에서 무인 택시 서비스를 제공하며, 우버의 한국 재진출과 정면 경쟁한다.]]></description>
     </item>
   </channel>
 </rss>
