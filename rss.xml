@@ -5,8 +5,53 @@
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 23 Apr 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 23:30:00 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[SK하이닉스, 영업이익률 72% '역대 최대'...1분기 매출 52.6조 비수기에 터진 신화]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083001</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083001</guid>
+      <pubDate>Thu, 23 Apr 2026 23:30:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[SK하이닉스가 2026년 1분기 매출 52조 5,763억원·영업이익 37조 6,103억원(영업이익률 72%)을 기록하며 창사 이래 최대 실적을 달성했다. 전년 동기 대비 매출 +198%, 영업이익 +405%로, 계절적 비수기임에도 HBM·서버 D램·eSSD 수요가 폭발했다. 하반기 HBM4E 샘플 공급과 2027년 양산 계획도 발표해 AI 반도체 초호황의 지속을 예고했다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[구글 클라우드 넥스트 2026: A2A 프로토콜 150개 기업 실전 운영, Vertex AI 전면 개편]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083002</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083002</guid>
+      <pubDate>Thu, 23 Apr 2026 23:30:00 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[4월 22일 라스베이거스에서 열린 Google Cloud Next 2026에서 구글이 에이전트 AI 전략을 전면 공개했다. A2A(Agent2Agent) 프로토콜이 버전 1.2로 업그레이드되며 Linux Foundation 산하로 이관됐고, 150개 기업이 실제 업무에 운영 중이다. Vertex AI는 'Gemini Enterprise Agent Platform'으로 통합 개편돼 OpenAI, Anthropic에 정면 도전장을 냈다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic 연매출 $30B 돌파...3개월 만에 3배 성장, Google TPU 3.5GW 초대형 딜]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083003</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083003</guid>
+      <pubDate>Thu, 23 Apr 2026 23:30:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[Anthropic이 연환산 매출(run-rate revenue) 300억 달러(약 39조원)를 돌파했다. 2025년 말 약 90억 달러에서 불과 3개월 만에 3배 이상 성장한 수치다. 동시에 Google·Broadcom과 3.5기가와트 규모의 컴퓨팅 용량 공급 계약을 체결해 2027년부터 역대 최대 규모의 AI 인프라를 확보한다. 연간 100만 달러 이상 결제 기업 고객이 1,000개를 돌파했다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[도요타 '위븐시티 AI 비전 엔진' 공개...실제 도시가 피지컬 AI 실험실 된다]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083004</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083004</guid>
+      <pubDate>Thu, 23 Apr 2026 23:30:00 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[도요타와 Woven by Toyota가 4월 22일 일본 시즈오카의 위븐시티(Woven City)에서 AI Vision Engine을 공개했다. 세계 최고 수준의 비전 언어 모델(VLM)로, 도시 전체의 카메라·모빌리티·로봇 피드를 실시간 처리해 자율주행·로봇 배달·안전 예측을 수행한다. 중국 피지컬 AI 기업들과의 경쟁이 가열되는 가운데 일본이 실제 운영 도시를 AI 실험실로 활용하는 선제적 전략을 발표했다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[코스피 사상 첫 6400 돌파...SK하이닉스 역대 실적에 한국 증시 역사 다시 썼다]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083005</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083005</guid>
+      <pubDate>Thu, 23 Apr 2026 23:30:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[4월 23일 코스피가 6,417.93으로 사상 처음 6,400선을 돌파했다. SK하이닉스의 역대 최대 실적 발표와 미중 AI 반도체 패권 경쟁에서 한국이 최대 수혜를 받고 있다는 분석이 맞물린 결과다. 금융투자업계는 AI 반도체 초호황 사이클이 2027년까지 지속된다면 코스피 7,000선도 현실화될 수 있다고 전망한다.]]></description>
+    </item>
     <item>
       <title><![CDATA[Anthropic 'Claude Mythos 5' 공개...인류 최초 10조 파라미터 AI 모델 탄생]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260423090001</link>
@@ -231,51 +276,6 @@
       <category>AI 연구</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[NVIDIA가 로봇·자율주행·비전 AI 에이전트 훈련 데이터 생성을 통합 자동화하는 물리 AI 데이터 팩토리 블루프린트를 오픈소스로 공개했다. 뉴턴 1.0 물리 엔진도 함께 출시됐으며, 외과 로봇부터 100MW 태양광 설치 로봇까지 실제 현장 적용 사례가 동시에 발표됐다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[메타 'Muse Spark' 공개, OpenAI·구글과 정면 승부]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260413180001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260413180001</guid>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-      <category>LLM</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[메타가 Meta Superintelligence Labs를 통해 첫 번째 Muse 시리즈 모델을 발표했다. Llama 4 중간 크기 모델과 동등한 성능을 10배 이하 컴퓨팅 비용으로 구현했다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[삼성·SK하이닉스, 엔비디아 HBM4 공급 주도권 경쟁]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260413180002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260413180002</guid>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-      <category>테크</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[삼성전자와 SK하이닉스가 엔비디아 Vera Rubin 가속기용 HBM4 공급 업체로 확정됐다. SK하이닉스가 약 60% 물량을 확보한 가운데 삼성전자도 양산 출하를 시작하며 점유율 회복에 나섰다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[에너지 100배 절감 AI 기술, 로봇에 적용 성공]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260413180003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260413180003</guid>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-      <category>AI 연구</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[미국 터프츠대 연구팀이 뉴로심볼릭 AI를 로보틱스 비주얼-언어-액션 모델에 적용해 에너지 소비를 최대 100배 줄이면서 성능은 오히려 향상시켰다. 하노이 탑 테스트에서 95% 성공률을 기록했다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[한국 AI 기본법 시행 90일, 제도 보정 본격화]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260413180004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260413180004</guid>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-      <category>정책</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[2026년 1월 시행된 한국 AI 기본법이 3개월 만에 보정 국면에 들어섰다. 정부는 40명 이상 전문가로 구성된 민관 태스크포스를 출범시켜 4~8월 기업 대상 설명회와 컨설팅을 진행할 예정이다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek V4 임박, 화웨이 칩 구동으로 미국 수출 규제 도전]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260413180005</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260413180005</guid>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-      <category>LLM</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[중국 AI 기업 DeepSeek의 차세대 모델 V4가 수 주 내 출시를 앞두고 있으며 화웨이 최신 칩으로 구동 가능하다는 보도가 나왔다. 1조 파라미터 멀티모달 모델로 훈련 비용은 약 520만 달러로 추정된다.]]></description>
     </item>
   </channel>
 </rss>
