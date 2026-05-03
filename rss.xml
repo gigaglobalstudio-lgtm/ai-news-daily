@@ -5,8 +5,53 @@
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 03 May 2026 07:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 23:45:00 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[업스테이지에 5,600억 직접투자...국민성장펀드 'AI 모델 1호' 거대 베팅]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260504084301</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260504084301</guid>
+      <pubDate>Sun, 03 May 2026 23:45:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[정부 국민성장펀드가 5월 3일 한국 LLM 스타트업 업스테이지에 5,600억 원 규모 직접 지분투자를 결정했다. 첨단전략산업기금 1,000억 + 산업은행 300억 + 민간 4,300억 구성으로, 'AI 모델 부문 직접투자 1호' 사례다. 업스테이지는 이 자금으로 한국어 특화 LLM 'Solar Pro 3' 개발과 추론 인프라 확장에 나선다. 누적 11건·8.4조 원에 달하는 국민성장펀드의 첫 AI 풀스택 베팅이다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek V4-Pro, API 가격 75% 폭탄 인하...글로벌 LLM 가격 전쟁 점화]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260504084302</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260504084302</guid>
+      <pubDate>Sun, 03 May 2026 23:45:00 GMT</pubDate>
+      <category>LLM</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[중국 DeepSeek이 4월 26일 자정부터 V4-Pro 출력 토큰 가격을 100만 토큰당 $3.48 → $0.87로 75% 인하했다. 캐시 히트 입력은 출시가의 1/10 수준까지 떨어졌다. OpenAI GPT-5.5의 100만 토큰 $12~25 대비 14~28배 저렴하다. 5월 5일까지 한시 할인이지만, 이미 Zhipu·Moonshot 등 중국 LLM이 줄줄이 가격 인하에 동참하며 미국 모델 마진 압박이 가시화됐다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic 'Mythos', NSA가 비공식 사용 중...국방부 블랙리스트인데 정보기관은 도입]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260504084303</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260504084303</guid>
+      <pubDate>Sun, 03 May 2026 23:45:00 GMT</pubDate>
+      <category>AI 연구</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[Bloomberg는 4월 30일 미 국가안보국(NSA)이 Anthropic의 보안 특화 AI 'Claude Mythos'를 마이크로소프트 제품의 취약점 발굴에 비공식 사용 중이라고 보도했다. 같은 모델은 펜타곤 공식 블랙리스트에 올라 있다. Mythos는 미공개 취약점 99% 이상을 신규 발견했고, 모든 주요 OS·브라우저에서 high-severity 결함 수천 개를 적발했다고 알려졌다. 한국 보안 업계도 즉각 영향권이다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[기업용 AI 에이전트 시장 5년 만에 28배...연평균 175% 폭주, 한국 SK·LG·KT 격돌]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260504084304</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260504084304</guid>
+      <pubDate>Sun, 03 May 2026 23:45:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[기업용 AI 에이전트 SW 시장이 2025년 15억 달러에서 2030년 418억 달러로 28배 성장한다는 IDC·Gartner 통합 전망이 나왔다. 연평균 성장률 175%다. 2026년 안에 전체 기업 앱의 40%가 작업 특화 에이전트를 통합하는데, 2025년 5% 미만에서 8배 증가다. SK텔레콤 '에이닷 비즈', LG AI연구원 EXAONE Agent, KT '믿:음 Agent', 카카오 'Kanana Agent' 등 한국 기업 격돌이 본격화됐다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[구글, 차량용 Gemini 통합 본격화...전 세계 수백만대 차에 'AI 코파일럿' 탑재]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260504084305</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260504084305</guid>
+      <pubDate>Sun, 03 May 2026 23:45:00 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[구글이 5월 1일 Volvo·Polestar·Honda·Renault에 이어 메르세데스-벤츠와 새 통합 계약을 체결, 차량용 Gemini 탑재 누적 모델이 30종을 돌파했다고 발표했다. 자연어 음성 대화로 길찾기·일정·메시지·결제까지 처리하며, 한국 현대차·기아의 ccNC 시스템과는 정면 경쟁 구도다. 동시에 구글 리서치는 ICLR 2026에서 'TurboQuant' 알고리즘을 공개, KV 캐시 메모리를 60% 절감해 차량 같은 엣지 환경에서도 대형 LLM을 굴릴 수 있게 했다.]]></description>
+    </item>
     <item>
       <title><![CDATA[펜타곤 AI 핵심 공급사 7곳 발표...Anthropic만 빠졌다, IL6·IL7 기밀시스템 진입]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260503163001</link>
@@ -231,51 +276,6 @@
       <category>기업 AI</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[PwC가 발표한 2026 AI 성과 연구에 따르면 AI 경제적 이익의 75%를 전체의 20%에 불과한 기업이 가져가고 있다. 선두 기업들은 생산성 향상보다 성장 전략을 우선시하며 후발 기업들과의 격차를 벌리고 있다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[구글, 추론·에이전트 특화 오픈소스 'Gemma 4' 공개]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180003</guid>
-      <pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
-      <category>LLM</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[구글이 고급 추론과 에이전트 워크플로우에 특화된 오픈 모델 시리즈 Gemma 4를 발표했다. 기존 Gemma 시리즈 최고 성능 모델로, 멀티모달 입력을 지원하며 상업적 활용도 무료로 허용된다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[한국 AI 프라이버시 민관 정책협의회 출범...에이전트 AI 시대 선제 대응]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180004</guid>
-      <pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
-      <category>정책</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[정부가 에이전트 AI, 피지컬 AI 확산에 대응하는 AI 프라이버시 민관 정책협의회를 출범시켰다. 에이전트 AI 데이터 처리, 리스크 관리, 정보주체 권리 등 3개 분과로 운영되며 하반기 가이드라인 발표를 목표로 한다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Visa, AI 에이전트가 대신 쇼핑·결제하는 플랫폼 출시]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180005</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180005</guid>
-      <pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[Visa가 AI 에이전트가 사용자를 대신해 상품을 검색하고 구매까지 완료하는 결제 플랫폼 Intelligent Commerce Connect를 출시했다. AI 에이전트 기반 자율 거래 시장의 결제 인프라 표준을 선점하려는 전략이다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[삼성전자, 차세대 HBM4 메모리로 AI 반도체 시장 선점 나서]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260417180001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260417180001</guid>
-      <pubDate>Fri, 17 Apr 2026 09:00:00 GMT</pubDate>
-      <category>테크</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[삼성전자가 2027년 상반기 HBM4 메모리 양산을 목표로 개발에 착수했다고 발표했다. 기존 HBM3E 대비 2배 향상된 성능으로 엔비디아 차세대 GPU에 공급 예정이다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[구글, 제미나이 2.0에 실시간 영상 분석 기능 추가 발표]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260417180002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260417180002</guid>
-      <pubDate>Fri, 17 Apr 2026 09:00:00 GMT</pubDate>
-      <category>LLM</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[구글이 차세대 AI 모델 제미나이 2.0에 실시간 영상 스트림 분석 기능을 탑재한다고 발표했다. 라이브 방송이나 화상회의 중 실시간으로 내용을 이해하고 요약할 수 있다.]]></description>
     </item>
   </channel>
 </rss>
