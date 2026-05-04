@@ -5,8 +5,53 @@
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 03 May 2026 23:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 23:45:00 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[美 펜타곤, 8개 빅테크와 기밀망 AI 계약...Anthropic만 '공급망 리스크' 배제]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505084401</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505084401</guid>
+      <pubDate>Mon, 04 May 2026 23:45:00 GMT</pubDate>
+      <category>정책</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[미 국방부가 5월 1~4일 OpenAI·Google·Microsoft·AWS·Nvidia·SpaceX·Reflection·Oracle 8개사와 IL6·IL7 기밀 네트워크용 AI 배치 계약을 잇따라 체결했다. Anthropic은 '자율 살상무기·대규모 감시 사용 동의' 거부로 공식 공급망 리스크 라벨이 붙어 배제됐다. 5년 누적 약 200억 달러 규모로, 한미 동맹 차원의 한국 국방 AI 도입 정책에도 직접 영향이 예상된다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic, 골드만·블랙스톤과 1.5조 합작...컨설팅 산업에 직격탄]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505084402</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505084402</guid>
+      <pubDate>Mon, 04 May 2026 23:45:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[펜타곤 8사 명단 배제 직후인 5월 4일, Anthropic이 Goldman Sachs·Blackstone·Hellman & Friedman·Apollo·General Atlantic과 15억 달러(약 2조 700억 원) 신규 합작 법인을 출범시켰다. 자사 엔지니어를 사모펀드 포트폴리오 800개 중견기업에 직접 투입해 워크플로우를 Claude 에이전트로 재설계하는 모델이다. McKinsey·BCG·Deloitte 등 컨설팅 빅4와 한국 삼정·삼일·EY 한영의 매출 직격탄이 예상된다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[삼성 HBM4E 5월 샘플 임박...엔비디아 'Vera Rubin Ultra' 핵심 메모리 격돌]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505084403</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505084403</guid>
+      <pubDate>Mon, 04 May 2026 23:45:00 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[삼성전자 메모리사업부가 5월 안에 7세대 HBM4E 첫 양산형 샘플을 엔비디아에 인도한다. SK하이닉스·마이크론도 5~6월 동시 인도. 핀당 16Gbps·총 4.0TB/s·48GB 용량으로 HBM3E 대비 60% 향상. 엔비디아 'Vera Rubin Ultra' 가속기 탑재용으로 GPT-5.5·Claude Opus 5급 모델 추론 비용을 30~40% 낮춘다. 삼성·SK 합산 2026년 영업이익 100조 원 돌파가 거의 확정적이다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[노보 노디스크-OpenAI 전사 AI 통합...신약 개발 6개월 단축, 韓 바이오 비상]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505084404</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505084404</guid>
+      <pubDate>Mon, 04 May 2026 23:45:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[덴마크 제약공룡 노보 노디스크가 OpenAI와 R&D·생산·상업화 전 영역에 AI를 통합 배치하는 파트너십을 4월 14일 발표했다. 2026년 말 전사 통합 완료가 목표로, 신약 후보 발굴 시간을 평균 30% 단축한다. 데이터 거버넌스·인적 감독 강화가 조건. 삼성바이오로직스·셀트리온·SK바이오사이언스 등 한국 바이오 기업도 자체 AI 파트너 확보 압박이 커진다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[내일 코엑스 'GAID 2026' 개막...아시아 최대 AI 전시, 韓 시장 명세서 공개]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505084405</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505084405</guid>
+      <pubDate>Mon, 04 May 2026 23:45:00 GMT</pubDate>
+      <category>이벤트</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[한국인공지능협회(KORAIA)가 5월 6~8일 서울 코엑스 A홀에서 제9회 국제인공지능대전 'GAID 2026'을 개최한다. 단일 AI 행사로는 아시아 최대 규모로, 200여 국내외 AI 기업이 참가한다. 카카오·네이버·LG·SKT·KT·삼성SDS는 자체 모델·에이전트 데모를 일제히 공개. 1월에 발표된 'AI+X 톱100'과 결합해 한국 AI 산업 명세서가 사흘간 펼쳐진다.]]></description>
+    </item>
     <item>
       <title><![CDATA[업스테이지에 5,600억 직접투자...국민성장펀드 'AI 모델 1호' 거대 베팅]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260504084301</link>
@@ -231,51 +276,6 @@
       <category>테크</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[UBS는 SK하이닉스가 엔비디아 차세대 GPU '루빈' 플랫폼용 HBM4 시장에서 약 70% 점유율을 확보할 것으로 전망했다. 주가는 4월 중 113만원을 돌파해 시총 110조원을 달성했으며, 씨티증권은 목표주가 170만원을 제시했다. 삼성전자는 품질 검증 지연으로 격차 확대 중이다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 'GPT-5.4-Cyber' 출시...보안팀 생산성 5배 증대]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090003</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-      <category>LLM</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[OpenAI가 방어적 사이버보안에 최적화된 GPT-5.4-Cyber를 엔터프라이즈 고객 대상으로 출시했다. 취약점 분석 오탐율을 기존 SAST 대비 78% 낮췄고, MITRE ATT&CK 매핑, 다크웹 위협 인텔리전스, 사고 대응 플레이북 자동 생성을 지원한다. Arctic Wolf, Palo Alto Networks가 즉시 통합을 발표했다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Snap, 1,000명 해고하며 'AI 때문'이라 명시...노동시장 전환점]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090004</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[Snap CEO 에반 스피겔이 전체 인력의 약 14%인 1,000명을 해고하며 감원 사유로 'AI의 급격한 발전'을 직접 명시했다. 300개 채용 공고도 취소됐다. 엔지니어링·마케팅·콘텐츠 부서가 집중 타격을 입었고, 절감 비용은 AI 인프라에 재투자된다. AI발 구조조정이 공식화되는 분기점이다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 'GPT-Rosalind' 공개...신약 개발 6년을 6개월로]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090005</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260421090005</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-      <category>AI 연구</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[OpenAI가 생명과학 추론 모델 GPT-Rosalind를 연구 프리뷰로 공개했다. 단백질-약물 결합 예측 정확도 91%, 임상 시험 설계 자동화, 유전체 변이 해석 등에서 기존 AlphaFold+인간 전문가 조합보다 우수한 성능을 보였다. 화이자, 노바티스, 모더나가 이미 파트너십을 체결했으며, 한국의 셀트리온·한미약품도 도입을 검토 중이다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[스탠포드 AI 인덱스 2026: 미중 AI 격차 2.7%로 좁혀졌다]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180001</guid>
-      <pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
-      <category>AI 연구</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[스탠포드 HAI가 발표한 2026 AI 인덱스 보고서에 따르면 미국의 AI 우위가 2023년 최대 31%p에서 2.7%로 급격히 좁혀졌다. AI 연구자 미국 유입은 89% 감소했고, 생성형 AI 인구 채택률은 53%로 인터넷보다 빠른 확산 속도를 기록했다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[PwC 조사: AI 이익의 75%를 상위 20% 기업이 독식한다]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260420180002</guid>
-      <pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[PwC가 발표한 2026 AI 성과 연구에 따르면 AI 경제적 이익의 75%를 전체의 20%에 불과한 기업이 가져가고 있다. 선두 기업들은 생산성 향상보다 성장 전략을 우선시하며 후발 기업들과의 격차를 벌리고 있다.]]></description>
     </item>
   </channel>
 </rss>
