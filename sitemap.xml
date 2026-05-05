@@ -2,51 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/</loc>
-    <lastmod>2026-05-04T23:45:00.000Z</lastmod>
+    <lastmod>2026-05-05T09:00:48.000Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/category/models</loc>
-    <lastmod>2026-05-04T23:45:00.000Z</lastmod>
+    <lastmod>2026-05-05T09:00:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/category/enterprise</loc>
-    <lastmod>2026-05-04T23:45:00.000Z</lastmod>
+    <lastmod>2026-05-05T09:00:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/category/research</loc>
-    <lastmod>2026-05-04T23:45:00.000Z</lastmod>
+    <lastmod>2026-05-05T09:00:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/category/tools</loc>
-    <lastmod>2026-05-04T23:45:00.000Z</lastmod>
+    <lastmod>2026-05-05T09:00:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/category/prompts</loc>
-    <lastmod>2026-05-04T23:45:00.000Z</lastmod>
+    <lastmod>2026-05-05T09:00:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/category/policy</loc>
-    <lastmod>2026-05-04T23:45:00.000Z</lastmod>
+    <lastmod>2026-05-05T09:00:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/category/culture</loc>
-    <lastmod>2026-05-04T23:45:00.000Z</lastmod>
+    <lastmod>2026-05-05T09:00:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505180001</loc>
+    <lastmod>2026-05-05T09:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505180002</loc>
+    <lastmod>2026-05-05T09:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505180003</loc>
+    <lastmod>2026-05-05T09:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505180004</loc>
+    <lastmod>2026-05-05T09:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505180005</loc>
+    <lastmod>2026-05-05T09:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505084401</loc>
@@ -381,156 +411,6 @@
   <url>
     <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260408120001</loc>
     <lastmod>2026-04-08T06:50:37.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260405180005</loc>
-    <lastmod>2026-04-05T09:00:05.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260405180004</loc>
-    <lastmod>2026-04-05T09:00:04.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260405180003</loc>
-    <lastmod>2026-04-05T09:00:03.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260405180002</loc>
-    <lastmod>2026-04-05T09:00:02.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260405180001</loc>
-    <lastmod>2026-04-05T09:00:01.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260402180005</loc>
-    <lastmod>2026-04-02T09:00:05.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260402180004</loc>
-    <lastmod>2026-04-02T09:00:04.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260402180003</loc>
-    <lastmod>2026-04-02T09:00:03.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260402180002</loc>
-    <lastmod>2026-04-02T09:00:02.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260402180001</loc>
-    <lastmod>2026-04-02T09:00:01.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180001</loc>
-    <lastmod>2026-04-01T02:05:55.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180002</loc>
-    <lastmod>2026-04-01T01:30:22.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180001</loc>
-    <lastmod>2026-04-01T00:55:48.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180002</loc>
-    <lastmod>2026-04-01T00:55:48.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180003</loc>
-    <lastmod>2026-04-01T00:55:48.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180004</loc>
-    <lastmod>2026-04-01T00:55:48.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180005</loc>
-    <lastmod>2026-04-01T00:55:48.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180003</loc>
-    <lastmod>2026-04-01T00:15:33.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180004</loc>
-    <lastmod>2026-03-31T23:45:17.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260401180005</loc>
-    <lastmod>2026-03-31T22:20:44.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260326180001</loc>
-    <lastmod>2026-03-26T09:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260326180002</loc>
-    <lastmod>2026-03-26T09:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260326180003</loc>
-    <lastmod>2026-03-26T09:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260326180004</loc>
-    <lastmod>2026-03-26T09:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260326180005</loc>
-    <lastmod>2026-03-26T09:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
