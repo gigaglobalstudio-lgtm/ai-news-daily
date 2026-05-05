@@ -1,12 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life Honey Tips</title>
+    <title>Prompt Daily</title>
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 05 May 2026 09:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 23:43:00 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[구글 딥마인드 서울 AI캠퍼스 연내 가동...KAIST·서울대 알파폴드 직접 활용]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843001</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843001</guid>
+      <pubDate>Tue, 05 May 2026 23:43:00 GMT</pubDate>
+      <category>정책</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[구글 딥마인드가 영국 본사 외 세계 최초의 해외 AI 캠퍼스를 서울 강남구 구글코리아 사옥 1,980㎡ 공간에 연내 가동한다. 4월 27일 이재명 대통령과 데미스 허사비스 CEO 공동 발표 이후 5월 들어 운영 일정이 확정됐다. 1차 파트너는 서울대(SNU)·KAIST·과기정통부 산하 AI 바이오 혁신허브 3곳이며, 최소 10명의 구글 연구원이 한국에 상주한다. 알파폴드·알파미사이클 등 AI for Science 시리즈 전체에 한국 연구진이 직접 접근한다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic 매출 30B 폭증 + 구글·브로드컴 3.5GW TPU 확정...HBM 공급망 재편]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843002</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843002</guid>
+      <pubDate>Tue, 05 May 2026 23:43:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[5월 6일 공개된 자료에 따르면 Anthropic Claude 연 매출 런레이트가 300억 달러(약 41조 원)로 6개월 만에 3.3배 폭증했다. 1,000개 이상 기업 고객이 연 100만 달러 이상을 지출 중이다. 4월 6일 발표된 구글·브로드컴과의 3.5GW(기가와트) 차세대 TPU 도입 계약은 2027년부터 미국 본토 데이터센터에서 가동되며, 이미 진행 중인 1GW Google Cloud 계약과 별개다. 삼성·SK하이닉스 HBM·국내 변압기·냉각 기자재 기업의 동시 호황 구간이 시작됐다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[코엑스 'AI EXPO 2026' 정식 개막...피지컬 AI 350개사 600부스 사흘간 폭주]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843003</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843003</guid>
+      <pubDate>Tue, 05 May 2026 23:43:00 GMT</pubDate>
+      <category>이벤트</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[5월 6일 오전 9시 30분, 서울 코엑스 A홀 전관에서 제9회 'AI EXPO KOREA 2026'이 정식 개막했다. 350개사·600부스가 일제 가동되며 사흘간 5만 명 이상이 방문할 전망이다. 올해 핵심 키워드는 '피지컬 AI(Physical AI)'로, 디지털을 넘어 로봇·자율주행·스마트 디바이스·산업 자동화로 직접 진출하는 AI를 집중 조명한다. 네이버·카카오·LG·SKT·KT·삼성SDS의 자체 모델·에이전트 데모가 동시 무대에 오른다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[中 오픈웨이트 6종 12일 동시 폭발...DeepSeek V4·Kimi K2.6, GPT-5·Claude 추월]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843004</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843004</guid>
+      <pubDate>Tue, 05 May 2026 23:43:00 GMT</pubDate>
+      <category>AI 연구</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[4월 18~30일 12일간 중국 6개 연구소가 오픈웨이트 코딩·추론 LLM을 동시 출시했다. Kimi K2.6은 SWE-Bench Pro 58.6%로 GPT-5.4(xhigh)를 추월한 첫 오픈웨이트 모델이며, GLM-5.1은 754B MoE를 MIT 라이선스로 공개해 Claude Opus 4.6을 일부 코딩 벤치마크에서 앞섰다. DeepSeek V4-Flash 추론 비용은 100만 토큰 $0.28로 미국 프론티어 대비 15~30배 저렴하다. 한국 AI 스타트업·자국 모델 정책에 직접 충격이 시작됐다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[한국 자국 AI 모델 2차 평가 6월 종료...LG·SKT·업스테이지 3파전, 12월 결승]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843005</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843005</guid>
+      <pubDate>Tue, 05 May 2026 23:43:00 GMT</pubDate>
+      <category>정책</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[과기정통부 'Independent AI Foundation Model Project' 1차 평가에서 LG AI연구원·SK텔레콤·업스테이지가 통과했고 네이버·NC AI는 탈락했다. 6월 종료되는 2차 평가에 이어 12월 최종 결정이 내려진다. 5,300억 원 정부 자금과 향후 5년 공공·국방·금융 발주 우선권이 걸려 있다. 중국 오픈웨이트 폭발과 구글 딥마인드 서울 캠퍼스 설립이 평가 기준에도 직접 영향을 미친다.]]></description>
+    </item>
     <item>
       <title><![CDATA[삼성, 차세대 갤럭시 AI 'Gemini Nano' 탑재 확정…온디바이스 성능↑]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260505180001</link>
@@ -231,51 +276,6 @@
       <category>기업 AI</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[4월 23일 코스피가 6,417.93으로 사상 처음 6,400선을 돌파했다. SK하이닉스의 역대 최대 실적 발표와 미중 AI 반도체 패권 경쟁에서 한국이 최대 수혜를 받고 있다는 분석이 맞물린 결과다. 금융투자업계는 AI 반도체 초호황 사이클이 2027년까지 지속된다면 코스피 7,000선도 현실화될 수 있다고 전망한다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic 'Claude Mythos 5' 공개...인류 최초 10조 파라미터 AI 모델 탄생]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260423090001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260423090001</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-      <category>LLM</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[Anthropic이 4월 22일(현지시각) Claude Mythos 5를 공식화하며 인류 최초 10조 파라미터 AI 모델이 탄생했다. 혼합전문가(MoE) 아키텍처로 실제 추론 비용은 1조 파라미터 수준이나, ARC-AGI-2 등 모든 주요 벤치마크에서 역대 최고 성능을 기록했다. 사이버보안 역량 논란으로 약 50개 기업 대상 'Project Glasswing' 클로즈드 프리뷰로만 제공된다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI, 연매출 33조원 돌파...기업가치 1,300조원 IPO 공식화]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260423090002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260423090002</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[OpenAI가 2026년 2월 말 연간 매출 기준 250억 달러(약 33조원)를 돌파했다. 2024년 말 37억 달러에서 14개월 만에 6.7배 성장한 기록이다. 기업가치 1조 달러(약 1,300조원)를 목표로 2026년 하반기 SEC 파일링, 2027년 정식 상장이 유력하다. 연간 140억 달러 적자 등 구조적 이슈는 변수다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[구글 '신규 코드 75% AI 생성'...순다르 피차이, 개발 패러다임 전환 선언]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260423090003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260423090003</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-      <category>테크</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[구글 CEO 순다르 피차이가 Google Cloud Next 2026에서 구글 내부 신규 코드의 75%가 AI로 생성된다고 밝혔다. 1년 전 25%, 지난 가을 50%에서 6개월 만에 또다시 25%p 급증했다. 코드 마이그레이션 속도 6배 단축 등 구체적 성과가 공개됐으며, 국내 카카오·네이버도 40% 이상 AI 코드 채택률에 도달했다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[MIT "AI가 사기를 초강화"...딥페이크·피싱 피해 전년比 340% 폭증]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260423090004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260423090004</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-      <category>정책</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[MIT Technology Review가 4월 21일 'AI 초강화 사기(Supercharged Scams)' 보고서를 통해 AI 기반 사이버 범죄가 2026년 1분기 전년 대비 340% 급증했다고 경고했다. 인터폴은 동남아 사기 센터들이 AI로 피해자 수를 10배 늘렸다고 발표했다. 한국 경찰청 집계에서도 AI 딥페이크 사기 피해액이 1분기에만 1,200억원을 넘어섰다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Nature 연구 "AI 에이전트, 복잡한 과학 과제서 박사급 인간의 절반도 못 미쳐"]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260423090005</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260423090005</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-      <category>AI 연구</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[네이처(Nature)에 게재된 스탠퍼드 HAI 연구팀 논문에서 현재 최고 AI 에이전트들이 복잡한 과학 연구 과제에서 박사급 인간 연구자의 절반 수준 성능만 발휘했다고 밝혔다. 단순 정보 검색에서는 AI가 우위지만 가설 생성·이상 데이터 해석 등 고차원 과제에서 인간이 압도했다. AI를 보조 도구로 활용한 인간은 성공률 82%로 단독 인간(68%)을 크게 앞섰다.]]></description>
     </item>
   </channel>
 </rss>
