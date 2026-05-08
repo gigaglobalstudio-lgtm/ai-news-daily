@@ -1,12 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prompt Daily</title>
+    <title>Life Honey Tips</title>
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 05 May 2026 23:43:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 09:02:00 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[구글 제미나이 2.0, GPT-5 성능 넘어서며 멀티모달 AI 시대 선언]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180001</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180001</guid>
+      <pubDate>Fri, 08 May 2026 09:00:15 GMT</pubDate>
+      <category>LLM</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[구글이 차세대 AI 모델 제미나이 2.0을 공개하며 OpenAI GPT-5를 앞선 성능을 입증했다고 발표했습니다. 특히 한국어 처리와 K-콘텐츠 이해 능력이 대폭 향상되어 국내 AI 생태계에 큰 변화가 예상됩니다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[삼성전자, 갤럭시 AI 칩셋 자체 개발 성공...엔비디아 의존도 탈피]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180002</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180002</guid>
+      <pubDate>Fri, 08 May 2026 09:00:15 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[삼성전자가 자체 개발한 AI 전용 칩셋 '엑시노스 AI 3200'을 공개했습니다. 엔비디아 H100 대비 30% 향상된 추론 성능과 50% 낮은 전력 소모를 달성해 글로벌 AI 칩 시장에서 한국의 위상을 높였습니다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[스탠포드 AI 연구진, 인간 수준 추론 능력 가진 'ReasonGPT' 개발]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180003</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180003</guid>
+      <pubDate>Fri, 08 May 2026 09:00:15 GMT</pubDate>
+      <category>AI 연구</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[스탠포드 대학 연구팀이 복잡한 수학적 추론과 논리적 사고에서 인간 전문가 수준의 성능을 보이는 AI 모델을 개발했다고 발표했습니다. 기존 LLM의 한계였던 다단계 추론 문제를 혁신적으로 해결한 것으로 평가받고 있습니다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[EU AI 법안 시행 6개월, 한국 기업들 대응 전략 점검 시급]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180004</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180004</guid>
+      <pubDate>Fri, 08 May 2026 09:00:15 GMT</pubDate>
+      <category>정책</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[유럽연합의 AI 법안 시행 6개월을 맞아 한국 기업들의 대응 현황이 엇갈리고 있습니다. 삼성, LG 등 대기업은 적극 대응하고 있으나, 중소 AI 기업들은 여전히 준비 부족으로 유럽 시장 진출에 어려움을 겪고 있습니다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[마이크로소프트-오픈AI 파트너십 재정의...GPT 독점권 포기]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180005</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180005</guid>
+      <pubDate>Fri, 08 May 2026 09:00:15 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[마이크로소프트가 오픈AI와의 독점 파트너십을 부분적으로 완화하기로 했다고 발표했습니다. GPT 모델의 독점 라이선스를 포기하는 대신 AI 인프라 분야에서의 협력을 강화하는 새로운 전략으로 전환합니다.]]></description>
+    </item>
     <item>
       <title><![CDATA[구글 딥마인드 서울 AI캠퍼스 연내 가동...KAIST·서울대 알파폴드 직접 활용]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843001</link>
@@ -231,51 +276,6 @@
       <category>정책</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[스탠퍼드대 인간중심AI연구소(HAI)가 4월 13일 발표한 'AI 인덱스 2026'에서 한국이 'AI 모델' 부문 세계 3위로 평가됐다. 미국·중국에 이은 결과로 모델 출시 수와 품질에서 일본·유럽을 모두 앞섰다. 그러나 'AI 수익화'와 '피지컬 AI' 부문에서는 격차가 여전하다. 정부의 10조원 예산과 5대 국가대표(네이버·SKT·LG·NC·업스테이지) 컨소시엄의 다음 시험대가 다가왔다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[SK하이닉스, 영업이익률 72% '역대 최대'...1분기 매출 52.6조 비수기에 터진 신화]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083001</guid>
-      <pubDate>Thu, 23 Apr 2026 23:30:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[SK하이닉스가 2026년 1분기 매출 52조 5,763억원·영업이익 37조 6,103억원(영업이익률 72%)을 기록하며 창사 이래 최대 실적을 달성했다. 전년 동기 대비 매출 +198%, 영업이익 +405%로, 계절적 비수기임에도 HBM·서버 D램·eSSD 수요가 폭발했다. 하반기 HBM4E 샘플 공급과 2027년 양산 계획도 발표해 AI 반도체 초호황의 지속을 예고했다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[구글 클라우드 넥스트 2026: A2A 프로토콜 150개 기업 실전 운영, Vertex AI 전면 개편]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083002</guid>
-      <pubDate>Thu, 23 Apr 2026 23:30:00 GMT</pubDate>
-      <category>테크</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[4월 22일 라스베이거스에서 열린 Google Cloud Next 2026에서 구글이 에이전트 AI 전략을 전면 공개했다. A2A(Agent2Agent) 프로토콜이 버전 1.2로 업그레이드되며 Linux Foundation 산하로 이관됐고, 150개 기업이 실제 업무에 운영 중이다. Vertex AI는 'Gemini Enterprise Agent Platform'으로 통합 개편돼 OpenAI, Anthropic에 정면 도전장을 냈다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic 연매출 $30B 돌파...3개월 만에 3배 성장, Google TPU 3.5GW 초대형 딜]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083003</guid>
-      <pubDate>Thu, 23 Apr 2026 23:30:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[Anthropic이 연환산 매출(run-rate revenue) 300억 달러(약 39조원)를 돌파했다. 2025년 말 약 90억 달러에서 불과 3개월 만에 3배 이상 성장한 수치다. 동시에 Google·Broadcom과 3.5기가와트 규모의 컴퓨팅 용량 공급 계약을 체결해 2027년부터 역대 최대 규모의 AI 인프라를 확보한다. 연간 100만 달러 이상 결제 기업 고객이 1,000개를 돌파했다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[도요타 '위븐시티 AI 비전 엔진' 공개...실제 도시가 피지컬 AI 실험실 된다]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083004</guid>
-      <pubDate>Thu, 23 Apr 2026 23:30:00 GMT</pubDate>
-      <category>테크</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[도요타와 Woven by Toyota가 4월 22일 일본 시즈오카의 위븐시티(Woven City)에서 AI Vision Engine을 공개했다. 세계 최고 수준의 비전 언어 모델(VLM)로, 도시 전체의 카메라·모빌리티·로봇 피드를 실시간 처리해 자율주행·로봇 배달·안전 예측을 수행한다. 중국 피지컬 AI 기업들과의 경쟁이 가열되는 가운데 일본이 실제 운영 도시를 AI 실험실로 활용하는 선제적 전략을 발표했다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[코스피 사상 첫 6400 돌파...SK하이닉스 역대 실적에 한국 증시 역사 다시 썼다]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083005</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260424083005</guid>
-      <pubDate>Thu, 23 Apr 2026 23:30:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[4월 23일 코스피가 6,417.93으로 사상 처음 6,400선을 돌파했다. SK하이닉스의 역대 최대 실적 발표와 미중 AI 반도체 패권 경쟁에서 한국이 최대 수혜를 받고 있다는 분석이 맞물린 결과다. 금융투자업계는 AI 반도체 초호황 사이클이 2027년까지 지속된다면 코스피 7,000선도 현실화될 수 있다고 전망한다.]]></description>
     </item>
   </channel>
 </rss>
