@@ -5,8 +5,53 @@
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 12 May 2026 23:43:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 23:45:00 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[SKT '국가대표 AI' A.X K1, 국방 최초 도입...519B 모델·과기정통부 GPU 패키지]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260518084501</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260518084501</guid>
+      <pubDate>Sun, 17 May 2026 23:45:00 GMT</pubDate>
+      <category>정책</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[SK텔레콤과 국방부가 5월 14일 SKT타워에서 국방 AX 가속을 위한 MOU를 체결했다. 매개변수 5,000억 개를 넘긴 국내 최초 519B급 초거대 모델 'A.X K1'의 경량 버전이 국방 행정·작전지원 영역에 처음 투입된다. 과기정통부 '국가 AI 프로젝트'의 GPU 자원이 2분기 안에 SKT에 지원되며, 국방 특화 SLM 공동 실증이 즉시 착수된다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[마키나락스 청약 13.9조 폭주...피지컬 AI 첫 코스닥, 의무보유 78.2% 신기록]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260518084502</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260518084502</guid>
+      <pubDate>Sun, 17 May 2026 23:45:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[산업용 AI 기업 마키나락스가 5월 11~12일 일반 청약에서 경쟁률 2,807.8대 1을 기록했다. 청약 증거금 13조 8,722억 원은 2026년 최대 규모이며, 의무보유 확약 78.2%는 코스닥 역대 최고치다. 14일 납입을 거쳐 20일 코스닥에 상장한다. AI매터스·머니투데이·ZDNet 등 주요 매체가 '피지컬 AI 1호 IPO'로 일제히 표현했다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[구글 Gemini 3.1 Flash-Lite 공개...$0.25/M·2.5배 속도, 토큰 가격 전쟁 재점화]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260518084503</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260518084503</guid>
+      <pubDate>Sun, 17 May 2026 23:45:00 GMT</pubDate>
+      <category>LLM</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[구글이 5월 12일 Gemini 3.1 Flash-Lite를 공개했다. 입력 100만 토큰당 $0.25, 출력 $1.50로 가성비 1위를 노린다. Time to First Token은 이전 2.5 Flash 대비 2.5배 빨라졌고 출력 속도는 45% 향상됐다. 1M 토큰 컨텍스트, 멀티모달 지원으로 대규모 고빈도 트래픽에 최적화됐다. OpenAI·Anthropic·DeepSeek와의 가격 경쟁이 다시 격화된다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI '슈퍼앱' 통합 가속...ChatGPT·Codex·Atlas·API 단일 팀 재편 단행]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260518084504</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260518084504</guid>
+      <pubDate>Sun, 17 May 2026 23:45:00 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[OpenAI가 ChatGPT, 코딩 에이전트 Codex, 개발자 API, Atlas 브라우저를 하나의 제품 팀으로 통합한다. 통합 팀장은 Codex 사업 리드 Thibault Sottiaux. 연환산 매출 250억 달러 돌파 직후 단행된 조직 개편으로, 2026년 말 IPO 가능성을 염두에 둔 '슈퍼앱화' 전략의 신호다. Microsoft·Google·Apple의 OS 레벨 AI 통합 압박에 대한 반격 카드로도 해석된다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Snap·Perplexity $4억 AI 검색 동맹 백지화...My AI vs Comet 분리 전쟁 본격화]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260518084505</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260518084505</guid>
+      <pubDate>Sun, 17 May 2026 23:45:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[Snap이 5월 6일 1분기 실적 발표와 함께 Perplexity와의 4억 달러·12개월 AI 검색 통합 계약 백지화를 공개했다. 양사는 '제품 적합성 부족'을 이유로 합의 종료했고, Snap은 자체 My AI·AI Sponsored Snaps에 집중, Perplexity는 Comet 브라우저 직접 유통으로 선회한다. 'AI 인프라 vs AI 인터페이스' 동맹의 첫 대형 실패 사례로 기록된다.]]></description>
+    </item>
     <item>
       <title><![CDATA[OpenAI 'DeployCo' 40억 달러 출범...Tomoro 인수·19개사 동맹 컨설팅 빅뱅]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605130843001</link>
@@ -231,51 +276,6 @@
       <category>기업 AI</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[마이크로소프트가 오픈AI와의 독점 파트너십을 부분적으로 완화하기로 했다고 발표했습니다. GPT 모델의 독점 라이선스를 포기하는 대신 AI 인프라 분야에서의 협력을 강화하는 새로운 전략으로 전환합니다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[구글 딥마인드 서울 AI캠퍼스 연내 가동...KAIST·서울대 알파폴드 직접 활용]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843001</guid>
-      <pubDate>Tue, 05 May 2026 23:43:00 GMT</pubDate>
-      <category>정책</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[구글 딥마인드가 영국 본사 외 세계 최초의 해외 AI 캠퍼스를 서울 강남구 구글코리아 사옥 1,980㎡ 공간에 연내 가동한다. 4월 27일 이재명 대통령과 데미스 허사비스 CEO 공동 발표 이후 5월 들어 운영 일정이 확정됐다. 1차 파트너는 서울대(SNU)·KAIST·과기정통부 산하 AI 바이오 혁신허브 3곳이며, 최소 10명의 구글 연구원이 한국에 상주한다. 알파폴드·알파미사이클 등 AI for Science 시리즈 전체에 한국 연구진이 직접 접근한다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic 매출 30B 폭증 + 구글·브로드컴 3.5GW TPU 확정...HBM 공급망 재편]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843002</guid>
-      <pubDate>Tue, 05 May 2026 23:43:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[5월 6일 공개된 자료에 따르면 Anthropic Claude 연 매출 런레이트가 300억 달러(약 41조 원)로 6개월 만에 3.3배 폭증했다. 1,000개 이상 기업 고객이 연 100만 달러 이상을 지출 중이다. 4월 6일 발표된 구글·브로드컴과의 3.5GW(기가와트) 차세대 TPU 도입 계약은 2027년부터 미국 본토 데이터센터에서 가동되며, 이미 진행 중인 1GW Google Cloud 계약과 별개다. 삼성·SK하이닉스 HBM·국내 변압기·냉각 기자재 기업의 동시 호황 구간이 시작됐다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[코엑스 'AI EXPO 2026' 정식 개막...피지컬 AI 350개사 600부스 사흘간 폭주]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843003</guid>
-      <pubDate>Tue, 05 May 2026 23:43:00 GMT</pubDate>
-      <category>이벤트</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[5월 6일 오전 9시 30분, 서울 코엑스 A홀 전관에서 제9회 'AI EXPO KOREA 2026'이 정식 개막했다. 350개사·600부스가 일제 가동되며 사흘간 5만 명 이상이 방문할 전망이다. 올해 핵심 키워드는 '피지컬 AI(Physical AI)'로, 디지털을 넘어 로봇·자율주행·스마트 디바이스·산업 자동화로 직접 진출하는 AI를 집중 조명한다. 네이버·카카오·LG·SKT·KT·삼성SDS의 자체 모델·에이전트 데모가 동시 무대에 오른다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[中 오픈웨이트 6종 12일 동시 폭발...DeepSeek V4·Kimi K2.6, GPT-5·Claude 추월]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843004</guid>
-      <pubDate>Tue, 05 May 2026 23:43:00 GMT</pubDate>
-      <category>AI 연구</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[4월 18~30일 12일간 중국 6개 연구소가 오픈웨이트 코딩·추론 LLM을 동시 출시했다. Kimi K2.6은 SWE-Bench Pro 58.6%로 GPT-5.4(xhigh)를 추월한 첫 오픈웨이트 모델이며, GLM-5.1은 754B MoE를 MIT 라이선스로 공개해 Claude Opus 4.6을 일부 코딩 벤치마크에서 앞섰다. DeepSeek V4-Flash 추론 비용은 100만 토큰 $0.28로 미국 프론티어 대비 15~30배 저렴하다. 한국 AI 스타트업·자국 모델 정책에 직접 충격이 시작됐다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[한국 자국 AI 모델 2차 평가 6월 종료...LG·SKT·업스테이지 3파전, 12월 결승]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843005</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605060843005</guid>
-      <pubDate>Tue, 05 May 2026 23:43:00 GMT</pubDate>
-      <category>정책</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[과기정통부 'Independent AI Foundation Model Project' 1차 평가에서 LG AI연구원·SK텔레콤·업스테이지가 통과했고 네이버·NC AI는 탈락했다. 6월 종료되는 2차 평가에 이어 12월 최종 결정이 내려진다. 5,300억 원 정부 자금과 향후 5년 공공·국방·금융 발주 우선권이 걸려 있다. 중국 오픈웨이트 폭발과 구글 딥마인드 서울 캠퍼스 설립이 평가 기준에도 직접 영향을 미친다.]]></description>
     </item>
   </channel>
 </rss>
