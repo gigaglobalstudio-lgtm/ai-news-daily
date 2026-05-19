@@ -5,8 +5,53 @@
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 17 May 2026 23:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[Google I/O 2026 개막...Gemini 4.0·Spark 에이전트·Android XR 글래스 19일 공개]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260519090001</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260519090001</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+      <category>LLM</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[5월 19일 오전(현지시간) 마운틴뷰 쇼어라인에서 Google I/O 2026이 개막한다. 통합 멀티모달 'Gemini 4.0', 사용자 대신 일하는 에이전트 'Gemini Spark', 디스플레이 없는 'Android XR 글래스' 프리뷰가 키노트의 3대 축이다. OpenAI GPT-5.5와의 정면 대결을 위한 무료 티어 확대, Gemini Pro 3.5·Flash 3.5 가격 재설계가 동반 공개된다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[삼성 HBM4 엔비디아 품질 테스트 '최고 점수' 통과...SK하이닉스 70% 독점 균열 시작]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260519090002</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260519090002</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[삼성전자의 HBM4가 엔비디아 차세대 AI 가속기 'Rubin'용 품질 테스트에서 최고 평가 등급을 받았다고 5월 17~18일 외신·국내 매체가 일제히 보도했다. 1분기 공식 공급계약 체결, 6월 양산 본격화가 예상된다. SK하이닉스 70%·삼성 17% → SK 55%·삼성 35% 점유율 재편이 1년 안에 가시화될 전망. 삼성전자 주가 5월 18일 +6.4% 급등.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[애플 iOS 27, Siri에 구글·앤트로픽 AI 선택권 부여...'AI 외주화' 9월 WWDC 정식 공개]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260519090003</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260519090003</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[애플이 iOS 27·iPadOS 27·macOS 27에서 사용자가 Apple Intelligence의 기본 AI 모델을 Google Gemini, Anthropic Claude 등 서드파티로 선택할 수 있는 'Extensions' 프레임워크를 준비 중이라고 블룸버그·9to5Mac·테크크런치가 5월 5일 보도했다. 6월 WWDC에서 추가 디테일이 공개되며, OpenAI는 이미 통합돼 있고 구글·앤트로픽 모델은 현재 테스트 중. 음성도 모델별로 다르게 설정 가능.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[MS AI CEO 술레이만 "18개월 안에 화이트칼라 업무 다 자동화"...회계·법무·마케팅 1순위]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260519090004</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260519090004</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+      <category>AI 연구</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[Microsoft AI CEO 무스타파 술레이만이 파이낸셜타임스 인터뷰에서 '12~18개월 안에 컴퓨터 앞에 앉아서 하는 거의 모든 화이트칼라 업무가 AI로 자동화된다'고 단언했다. 회계·법무·마케팅·프로젝트 매니지먼트 4개 직군이 1순위로 거론됐다. 'AI 모델 만드는 게 블로그·팟캐스트 만드는 수준으로 쉬워질 것'이라고도 발언. 한국 화이트칼라 1,200만 명에 정책·교육·재취업 충격이 예상된다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[머스크-올트먼 OpenAI 재판 머스크 패소...오클랜드 배심 "제소 시효 도과", 9th Circuit 항소 예고]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260519090005</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260519090005</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+      <category>정책</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[5월 18일 캘리포니아 오클랜드 연방법원 배심이 일론 머스크의 OpenAI·샘 올트먼 상대 비영리 약정 위반 소송에서 머스크 패소 평결을 냈다. 배심은 단 2시간 만에 '제소 시효(statute of limitations) 도과'를 만장일치로 판정. 머스크 측은 9th Circuit 항소 의향을 즉시 표명했다. OpenAI 영리 전환 정당성 확정, 2026년 말 IPO 시나리오에 결정적 청신호.]]></description>
+    </item>
     <item>
       <title><![CDATA[SKT '국가대표 AI' A.X K1, 국방 최초 도입...519B 모델·과기정통부 GPU 패키지]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260518084501</link>
@@ -231,51 +276,6 @@
       <category>정책</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[유럽연합 집행위원회가 5월 7일 교육자를 위한 AI·데이터 윤리 활용 가이드라인 2026판을 발표했다. 2024년 8월 발효된 EU AI법과 GDPR을 결합한 첫 통합 실행 문서로 평가받는다. 한국 에듀테크 기업의 EU 진출 시 즉시 준수 의무가 발생하며, 2,000만 유로 이상의 과징금 리스크가 동반된다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[구글 제미나이 2.0, GPT-5 성능 넘어서며 멀티모달 AI 시대 선언]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180001</guid>
-      <pubDate>Fri, 08 May 2026 09:00:15 GMT</pubDate>
-      <category>LLM</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[구글이 차세대 AI 모델 제미나이 2.0을 공개하며 OpenAI GPT-5를 앞선 성능을 입증했다고 발표했습니다. 특히 한국어 처리와 K-콘텐츠 이해 능력이 대폭 향상되어 국내 AI 생태계에 큰 변화가 예상됩니다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[삼성전자, 갤럭시 AI 칩셋 자체 개발 성공...엔비디아 의존도 탈피]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180002</guid>
-      <pubDate>Fri, 08 May 2026 09:00:15 GMT</pubDate>
-      <category>테크</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[삼성전자가 자체 개발한 AI 전용 칩셋 '엑시노스 AI 3200'을 공개했습니다. 엔비디아 H100 대비 30% 향상된 추론 성능과 50% 낮은 전력 소모를 달성해 글로벌 AI 칩 시장에서 한국의 위상을 높였습니다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[스탠포드 AI 연구진, 인간 수준 추론 능력 가진 'ReasonGPT' 개발]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180003</guid>
-      <pubDate>Fri, 08 May 2026 09:00:15 GMT</pubDate>
-      <category>AI 연구</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[스탠포드 대학 연구팀이 복잡한 수학적 추론과 논리적 사고에서 인간 전문가 수준의 성능을 보이는 AI 모델을 개발했다고 발표했습니다. 기존 LLM의 한계였던 다단계 추론 문제를 혁신적으로 해결한 것으로 평가받고 있습니다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[EU AI 법안 시행 6개월, 한국 기업들 대응 전략 점검 시급]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180004</guid>
-      <pubDate>Fri, 08 May 2026 09:00:15 GMT</pubDate>
-      <category>정책</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[유럽연합의 AI 법안 시행 6개월을 맞아 한국 기업들의 대응 현황이 엇갈리고 있습니다. 삼성, LG 등 대기업은 적극 대응하고 있으나, 중소 AI 기업들은 여전히 준비 부족으로 유럽 시장 진출에 어려움을 겪고 있습니다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[마이크로소프트-오픈AI 파트너십 재정의...GPT 독점권 포기]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180005</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260508180005</guid>
-      <pubDate>Fri, 08 May 2026 09:00:15 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[마이크로소프트가 오픈AI와의 독점 파트너십을 부분적으로 완화하기로 했다고 발표했습니다. GPT 모델의 독점 라이선스를 포기하는 대신 AI 인프라 분야에서의 협력을 강화하는 새로운 전략으로 전환합니다.]]></description>
     </item>
   </channel>
 </rss>
