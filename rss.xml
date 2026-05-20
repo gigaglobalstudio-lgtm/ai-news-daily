@@ -1,12 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prompt Daily</title>
+    <title>Life Honey Tips</title>
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 20 May 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:00:24 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[삼성전자, 차세대 '갤럭시 링' AI 기능 대폭 강화]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180001</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180001</guid>
+      <pubDate>Wed, 20 May 2026 09:00:00 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[삼성전자가 2026년 출시 예정인 갤럭시 링에 강력한 AI 기반 건강 관리 기능을 탑재할 것으로 알려졌다. 개인 맞춤형 건강 분석 및 예측 기능이 강화될 전망이다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[네이버, '하이퍼클로바X' 기반 B2B AI 솔루션 확장 가속]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180002</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180002</guid>
+      <pubDate>Wed, 20 May 2026 09:00:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[네이버가 자체 개발한 초거대 AI 모델 '하이퍼클로바X'를 활용한 기업용(B2B) AI 솔루션 사업을 본격적으로 확장한다. 다양한 산업 분야에 특화된 AI 서비스를 제공하며 시장 공략에 나선다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[KAIST, '인간-AI 협업' 위한 차세대 인터페이스 연구 성과 발표]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180003</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180003</guid>
+      <pubDate>Wed, 20 May 2026 09:00:00 GMT</pubDate>
+      <category>AI 연구</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[한국과학기술원(KAIST) 연구팀이 인간과 AI의 효율적인 협업을 위한 혁신적인 인터페이스 기술 연구 성과를 발표했다. 직관적인 상호작용을 통해 AI의 잠재력을 극대화하는 데 초점을 맞췄다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[정부, AI 윤리 기준 강화…'책임감 있는 AI' 생태계 조성 박차]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180004</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180004</guid>
+      <pubDate>Wed, 20 May 2026 09:00:00 GMT</pubDate>
+      <category>정책</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[정부가 인공지능 기술의 윤리적이고 책임감 있는 사용을 위한 기준을 강화하고 나섰다. AI 개발 및 활용 전반에 걸쳐 투명성과 공정성을 확보하여 신뢰할 수 있는 AI 생태계를 구축하겠다는 방침이다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[오픈AI, 'GPT-5' 출시 임박…초지능 AI 향한 도약 시사]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180005</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180005</guid>
+      <pubDate>Wed, 20 May 2026 09:00:00 GMT</pubDate>
+      <category>LLM</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[AI 선두 주자인 오픈AI가 차세대 대규모 언어 모델(LLM) 'GPT-5'의 출시를 앞두고 있다는 소식이 전해졌다. 기존 모델 대비 비약적인 성능 향상과 함께 새로운 차원의 AI 능력 선보일 것으로 예상된다.]]></description>
+    </item>
     <item>
       <title><![CDATA[Gemini 4.0 키노트 직후 벤치마크 공개...MMLU-Pro 88.1점 GPT-5.5 추월, 가격 -40%]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090001</link>
@@ -231,51 +276,6 @@
       <category>AI 연구</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[모건스탠리가 2026년 2분기 OpenAI·구글·Anthropic·xAI·메타의 컴퓨팅 누적이 임계점을 넘어 'AI 능력 도약(Capability Leap)'이 일어날 것이라고 경고했다. 2028년까지 글로벌 데이터센터 건설비 2.9조 달러, 미국 전력 부족 9~18GW가 동반된다. 2008년 금융위기 이후 최대 변곡점이라는 평가다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[美 정부, GPT·Gemini·Grok 출시 전 검증 의무화...AI 안전성 사전 통제 시작]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605101000001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605101000001</guid>
-      <pubDate>Sun, 10 May 2026 01:00:00 GMT</pubDate>
-      <category>정책</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[미국 상무부 산하 CAISI(AI 표준혁신센터)가 5월 5일 마이크로소프트, 구글 딥마인드, xAI와 출시 전 AI 모델 평가 협정을 체결했다. 2024년 OpenAI·Anthropic 협정에 이어 메이저 AI 5개사 모두를 정부 사전 검증 체계에 편입한 것으로, AI 안전성이 자율 영역에서 정부 통제 영역으로 넘어가는 결정적 분기점이다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[스냅 1,000명 해고 단행...슈피겔 "AI가 인력의 4분의 1을 대체"]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605101000002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605101000002</guid>
-      <pubDate>Sun, 10 May 2026 01:00:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[스냅챗 운영사 스냅(Snap)이 5월 7일 1,000명 해고와 300여 개 채용 중단을 동시 발표했다. 에반 슈피겔 CEO는 "AI 발전으로 더 작은 팀이 같은 결과를 낸다"고 직접 언급했다. 발표 직후 주가는 시간외 거래에서 11% 급등하며 'AI 노동 대체 시대'의 자본시장 메시지가 현실화됐다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic '미토스(Mythos)' 모델 공개...사이버보안 능력 너무 강해 접근 제한]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605101000003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605101000003</guid>
-      <pubDate>Sun, 10 May 2026 01:00:00 GMT</pubDate>
-      <category>LLM</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[Anthropic이 5월 6일 사이버보안 특화 신규 모델 '미토스(Mythos)'를 비공개 공개했다. 동급 모델 대비 사이버보안 추론 능력이 압도적으로 높아, 정부·은행·전력회사 등 검증된 기관 한정 접근으로 제한됐다. AI 모델이 보안 능력을 이유로 출시가 제한된 첫 사례다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[구글 TurboQuant ICLR 2026 공개...LLM 메모리 병목 60% 절감 알고리즘]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605101000004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605101000004</guid>
-      <pubDate>Sun, 10 May 2026 01:00:00 GMT</pubDate>
-      <category>AI 연구</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[구글 리서치팀이 5월 6일 ICLR 2026에서 'TurboQuant'를 공개했다. KV 캐시(LLM 추론의 핵심 메모리 병목)를 평균 60% 절감하면서 정확도 손실을 1% 이하로 유지한다. 데이터센터 추론 비용을 절반 가까이 줄일 수 있는 알고리즘으로, AI 인프라 경제학의 변곡점으로 평가된다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[MS '글로벌 AI 확산 2026' 리포트...전 세계 AI 사용자 17.8% 돌파]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605101000005</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605101000005</guid>
-      <pubDate>Sun, 10 May 2026 01:00:00 GMT</pubDate>
-      <category>테크</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[마이크로소프트가 5월 7일 발간한 '글로벌 AI 확산 2026' 리포트에서 전 세계 노동연령 인구 중 AI 사용자 비율이 17.8%(약 11억 6천만 명)에 도달했다고 발표했다. 1분기에만 1.5%p 상승해 사상 최대 분기 증가율을 기록했고, 한국은 21.4%로 OECD 평균(19.2%)을 상회하며 글로벌 5위에 올랐다.]]></description>
     </item>
   </channel>
 </rss>
