@@ -5,8 +5,53 @@
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 19 May 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[Gemini 4.0 키노트 직후 벤치마크 공개...MMLU-Pro 88.1점 GPT-5.5 추월, 가격 -40%]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090001</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090001</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <category>LLM</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[5월 19일(현지) Google I/O 2026 키노트에서 정식 공개된 Gemini 4.0이 MMLU-Pro 88.1점, SWE-bench Verified 79.3점, MMMU 81.4점으로 OpenAI GPT-5.5와 Claude Opus 4.5를 동시 추월했다. Pro 티어는 입력 $1.80/M·출력 $7.20/M으로 전 세대 대비 -40% 인하. Gemini Spark 에이전트 무료 티어 무제한, Android XR 글래스 9월 출시 확정. 알파벳 시가총액 18시간 만에 $3,200억 증가.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Computex 2026 황젠슨 깜짝 'Rubin Ultra' 공개...4년 만의 단일 GPU 6배 성능, 출시 12월]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090002</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090002</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <category>이벤트</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[5월 20일(현지) 대만 타이베이 Computex 2026 개막식에서 NVIDIA CEO 젠슨 황이 깜짝 발표한 차세대 GPU 'Rubin Ultra'가 단일 칩 2.6PFlops(FP8)·HBM4E 384GB·전력 1.6kW 사양으로 공개됐다. 이전 H100 대비 6배 성능. 12월 양산, 2027년 1월 첫 출하 예정. TSMC 1.4nm·삼성 HBM4E·SK 1c D램이 함께 공급망에 진입한다. 황 CEO 키노트 16분간 박수 19회 끊김.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[NAVER HyperCLOVA X 3.0 정식 출시...한국어 GPT-5.5 추월 91.4점, API 단가 -55%]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090003</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090003</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[NAVER가 5월 20일 오전 9시 HyperCLOVA X 3.0을 정식 출시했다. 한국어 능력 평가 KoMT-Bench 91.4점으로 GPT-5.5(87.2)·Claude Opus 4.5(86.8)를 동시 추월. API 단가는 입력 ₩0.9/1K 토큰, 출력 ₩2.7/1K 토큰으로 전 세대 대비 -55% 인하. 네이버 검색·쇼핑·블로그·페이·웍스 7개 서비스에 동시 통합. 6월 1일 기업용 'HyperCLOVA X Studio Pro' 출시 예고.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[EU AI Act 2단계 강제 시행...메타·X·바이두 '고위험 AI 미신고' 첫 과징금 4.2억 유로]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090004</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090004</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <category>정책</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[유럽연합이 5월 20일 0시부로 AI Act 2단계 강제 시행에 들어가며 메타(€1.8억)·X(€1.4억)·바이두(€1.0억) 등 빅테크 3사에 '고위험 AI 시스템 미신고' 첫 과징금 4.2억 유로를 일제 부과했다. AI Office는 추가로 8개사 사전 경고 발송. 한국 기업 중 NAVER·삼성전자·LG가 6월 30일까지 신고 의무 마감. 미준수 시 글로벌 매출 7% 과징금 위험.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[테슬라 Optimus 2.0 가격 $19,999 공개...2027년 출시·연 100만대 양산, 머스크 'iPhone 모먼트']]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090005</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090005</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[일론 머스크 테슬라 CEO가 5월 19일 X 라이브 방송에서 휴머노이드 로봇 'Optimus 2.0' 가격을 $19,999(약 2,700만 원)로 공개하고 2027년 1분기 출시, 첫해 양산 목표 100만 대를 발표했다. 손가락 22도 자유도, 작업 학습 90초, 음성 인터페이스 Grok 5 탑재. 머스크 '아이폰 모먼트의 로봇 버전'이라며 사전예약 24시간 만에 38만 대 돌파.]]></description>
+    </item>
     <item>
       <title><![CDATA[Google I/O 2026 개막...Gemini 4.0·Spark 에이전트·Android XR 글래스 19일 공개]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260519090001</link>
@@ -231,51 +276,6 @@
       <category>테크</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[마이크로소프트가 5월 7일 발간한 '글로벌 AI 확산 2026' 리포트에서 전 세계 노동연령 인구 중 AI 사용자 비율이 17.8%(약 11억 6천만 명)에 도달했다고 발표했다. 1분기에만 1.5%p 상승해 사상 최대 분기 증가율을 기록했고, 한국은 21.4%로 OECD 평균(19.2%)을 상회하며 글로벌 5위에 올랐다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic 9,000억 달러 펀딩 임박...OpenAI 추월 초읽기]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605090855001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605090855001</guid>
-      <pubDate>Fri, 08 May 2026 23:55:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[Anthropic이 5월 이사회에서 최대 500억 달러(약 70조 원) 규모, 기업가치 9,000억 달러(약 1,260조 원) 펀딩 라운드 결정에 들어간다. 성사 시 OpenAI(8,520억 달러)를 추월하는 사상 최대 규모 AI 기업이 된다. ARR 300억 달러 돌파, 1분기 매출 80배 폭증이 핵심 동력이다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[구글 Gemma 4 Apache 2.0 공개...256K 컨텍스트·31B 오픈모델 정점]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605090855002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605090855002</guid>
-      <pubDate>Fri, 08 May 2026 23:55:00 GMT</pubDate>
-      <category>LLM</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[구글이 5월 첫째 주 Gemma 4 시리즈를 Apache 2.0 라이선스로 전면 공개했다. 256K 컨텍스트, 네이티브 비전·오디오, 140개 언어 지원으로 오픈소스 LLM의 기술 한계를 다시 그었다. 엣지 디바이스용 2B/4B부터 데이터센터급 31B까지 5단계 모델 동시 출시로 라마 4·미스트랄을 정조준한다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[업스테이지, 포털 다음 인수 확정...솔라 LLM 결합 한국형 AI 검색 도전]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605090855003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605090855003</guid>
-      <pubDate>Fri, 08 May 2026 23:55:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[업스테이지가 5월 7일 포털 다음 운영사 AXZ 인수를 최종 확정했다. 자체 거대언어모델 솔라(Solar)를 다음 검색 엔진에 결합해 차세대 AI 포털로 재탄생시킨다는 계획이다. 네이버·구글에 맞서는 한국형 AI 검색 생태계의 첫 실험으로, 5~7월 시범 서비스 진입이 예정됐다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[SK하이닉스 HBM4 시장 70% 점유 전망...엔비디아 Rubin 독점 공급 가시화]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605090855004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605090855004</guid>
-      <pubDate>Fri, 08 May 2026 23:55:00 GMT</pubDate>
-      <category>테크</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[UBS가 5월 8일 보고서에서 SK하이닉스의 2026년 HBM4 시장 점유율을 약 70%로 전망했다. 엔비디아의 차세대 AI 가속기 Rubin 플랫폼에 HBM4를 사실상 독점 공급할 가능성이 높다. 삼성전자는 6월 HBM4E 첫 샘플 양산을 목표로 추격에 나섰다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[EU 교육용 AI 윤리지침 2026판 발표...GDPR·AI법 결합 첫 실행 문서]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605090855005</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605090855005</guid>
-      <pubDate>Fri, 08 May 2026 23:55:00 GMT</pubDate>
-      <category>정책</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[유럽연합 집행위원회가 5월 7일 교육자를 위한 AI·데이터 윤리 활용 가이드라인 2026판을 발표했다. 2024년 8월 발효된 EU AI법과 GDPR을 결합한 첫 통합 실행 문서로 평가받는다. 한국 에듀테크 기업의 EU 진출 시 즉시 준수 의무가 발생하며, 2,000만 유로 이상의 과징금 리스크가 동반된다.]]></description>
     </item>
   </channel>
 </rss>
