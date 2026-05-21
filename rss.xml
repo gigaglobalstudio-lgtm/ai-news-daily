@@ -1,12 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life Honey Tips</title>
+    <title>Prompt Daily</title>
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 20 May 2026 09:00:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 00:30:00 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[오픈AI 공동창업자 카르파시, 앤트로픽 사전학습 신팀 합류... 'AI가 AI를 학습시키는 시대']]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093001</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093001</guid>
+      <pubDate>Thu, 21 May 2026 00:30:00 GMT</pubDate>
+      <category>LLM</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[Andrej Karpathy가 5월 19일 X 계정을 통해 Anthropic 사전학습팀(Nick Joseph 산하) 합류를 공식 발표했다. 4시간 만에 X 조회수 1,130만·좋아요 10.2만·리포스트 1.3만을 기록하며 올해 AI 업계 최대 인사 이슈로 떠올랐다. 동시 공개된 Anthropic 연환산 매출 300억 달러(1년 +233%)는 OpenAI 130억 달러의 2.3배다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[JP모건 2026 IT 예산 198억 달러 확정... AI를 '코어 인프라' 재분류, Wall Street 첫 사례]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093002</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093002</guid>
+      <pubDate>Thu, 21 May 2026 00:30:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[JPMorgan Chase가 2026년 IT 예산 198억 달러(약 27.4조 원)를 5월 20일 주주서한으로 공식 확정 발표했다. 핵심은 AI 지출을 R&D 실험성 비용에서 데이터센터·결제망·리스크 컨트롤과 동급의 코어 인프라로 재분류한 것이다. 비재량(non-discretionary) AI 예산이 연 20억 달러로 정식 회계 처리된다. 15만 명 직원 생산성 +10~11% 입증.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI 'o1' 응급실 의사 진단력 추월... Science 본지 게재, 임상 데이터 76건 분석]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093003</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093003</guid>
+      <pubDate>Thu, 21 May 2026 00:30:00 GMT</pubDate>
+      <category>AI 연구</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[하버드 의대·베스 이스라엘 디코니스 메디컬센터 연구팀이 OpenAI의 o1-preview 모델이 응급실 의사들의 진단력을 객관적으로 추월했다는 대규모 임상 비교 연구를 4월 30일 Science 본지에 정식 게재했다. 보스턴 응급실 환자 76명의 실제 차트 데이터에서 o1은 78.9%의 정확 진단 포함률을 기록, 전문의 62.8%·GPT-4 56.4%를 압도했다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[정부, 업스테이지에 5,600억 직접 투자 확정... 국가성장펀드 'AI 주권' 두 번째 베팅]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093004</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093004</guid>
+      <pubDate>Thu, 21 May 2026 00:30:00 GMT</pubDate>
+      <category>정책</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[금융위원회 국가성장펀드 운용위원회가 5월 21일 정기 회의에서 한국 AI 스타트업 업스테이지(Upstage)에 5,600억 원(3.806억 달러) 직접 투자를 공식 의결했다. 국가성장펀드의 두 번째 직접 투자이자 유니콘 단일 베팅 사상 최대 규모. 고도전략산업 펀드 1,000억 원이 별도 투입돼 기업용 LLM 개발에 집중된다. 4월 누적 승인 8.4조 원(약 57억 달러).]]></description>
+    </item>
+    <item>
+      <title><![CDATA[AI 칩 부족 후폭풍, 2026 스마트폰 6.9%·PC 8% 가격 인상... 저가 브랜드 직격탄]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093005</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093005</guid>
+      <pubDate>Thu, 21 May 2026 00:30:00 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[대만 TrendForce·IDC·Counterpoint Research 3사 공동 보고서가 5월 21일 동시 발표됐다. AI 가속기·HBM 메모리·5nm 이하 첨단 노드 부족이 2026년 스마트폰 평균 가격을 +6.9%, PC 가격을 +8.0% 인상시킬 것이라는 전망. 게임 콘솔 PS6/Xbox 신형은 +12.4% 인상, 저가 브랜드 Xiaomi·Realme·Tecno는 +9.8~12.3% 가격 직격탄. 메모리 3사 영업이익 +84% 가속.]]></description>
+    </item>
     <item>
       <title><![CDATA[삼성전자, 차세대 '갤럭시 링' AI 기능 대폭 강화]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180001</link>
@@ -231,51 +276,6 @@
       <category>테크</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[케이던스와 엔비디아가 5월 12일 Physical AI Stack 전체 통합 로드맵을 공개했다. 로봇·자율 기계의 'sim-to-real 격차'를 평균 35~60%에서 5~12%로 줄이고, 엔지니어링 워크플로를 최대 100배 가속한다. Cadence VTD/VTDx + NVIDIA Isaac Sim·Cosmos·Jetson 통합으로 휴머노이드 로봇 양산화의 결정적 병목이 해소된다. 두산로보틱스·레인보우로보틱스·보스턴다이내믹스(현대차) 모두 영향권.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[엔비디아 AI 지분투자 400억 달러 돌파...IREN 5GW·코닝 32억 달러 동시 협약]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605110844001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605110844001</guid>
-      <pubDate>Sun, 10 May 2026 23:44:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[엔비디아가 2026년 1~5월 AI 분야 지분 투자 누적액 400억 달러를 돌파했다. 5월 7일 데이터센터 운영사 IREN과 5GW 규모 인프라 협약, 같은 주 유리 제조사 코닝에 32억 달러 투자 권리를 확보하며 '순환 거래' 비판 속에서도 AI 공급망 전반에 자본을 쏟아붓는 전략이 본격화됐다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic, 구글·브로드컴과 3.5GW TPU 협약...연 매출 300억 달러 돌파 공개]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605110844002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605110844002</guid>
-      <pubDate>Sun, 10 May 2026 23:44:00 GMT</pubDate>
-      <category>LLM</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[Anthropic이 5월 7일 구글·브로드컴과 2027년부터 가동되는 3.5기가와트 규모 차세대 TPU 인프라 협약을 체결했다. 같은 날 공개한 연 매출 환산액(ARR)은 300억 달러로, 2025년 말 90억 달러 대비 3배 이상 급증했다. AWS·구글·엔비디아 3축에 SpaceX까지 더한 멀티 컴퓨팅 전략의 결정판이다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[美 국방부, OpenAI·구글·MS·SpaceX 등 8개사와 AI 계약...Anthropic 완전 배제]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605110844003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605110844003</guid>
-      <pubDate>Sun, 10 May 2026 23:44:00 GMT</pubDate>
-      <category>정책</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[미국 국방부가 5월 1일 OpenAI·Google·Microsoft·Amazon·Oracle·Nvidia·SpaceX·Reflection AI 등 8개 빅테크와 기밀망 AI 활용 계약을 체결했다. 자율 살상 무기·대량 감시 사용 거부로 트럼프 행정부와 갈등을 빚은 Anthropic은 200억 달러 시장에서 완전 배제됐다. AI 윤리와 국방 조달의 충돌이 표면화됐다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[AI 칩 수요에 메모리 품귀...스마트폰 6.9%·PC 8% 가격 급등 확정]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605110844004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605110844004</guid>
-      <pubDate>Sun, 10 May 2026 23:44:00 GMT</pubDate>
-      <category>테크</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[AI 데이터센터가 글로벌 DRAM·HBM 생산의 23%를 흡수하면서 2026년 스마트폰 평균가가 전년 대비 6.9% 상승할 것으로 예측됐다. PC는 6~8% 인상, 200달러 미만 저가폰의 부품원가는 이미 20~30% 급등했다. 빅테크 6,500억 달러 인프라 투자의 청구서가 소비자에게 전가되기 시작했다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[모건스탠리 '2026년 4~6월 AI 능력 도약' 경고...데이터센터 2.9조 달러·전력 18GW 부족]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605110844005</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/202605110844005</guid>
-      <pubDate>Sun, 10 May 2026 23:44:00 GMT</pubDate>
-      <category>AI 연구</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[모건스탠리가 2026년 2분기 OpenAI·구글·Anthropic·xAI·메타의 컴퓨팅 누적이 임계점을 넘어 'AI 능력 도약(Capability Leap)'이 일어날 것이라고 경고했다. 2028년까지 글로벌 데이터센터 건설비 2.9조 달러, 미국 전력 부족 9~18GW가 동반된다. 2008년 금융위기 이후 최대 변곡점이라는 평가다.]]></description>
     </item>
   </channel>
 </rss>
