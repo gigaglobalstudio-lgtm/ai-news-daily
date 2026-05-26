@@ -5,8 +5,53 @@
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 25 May 2026 23:44:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 23:44:00 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[Anthropic $30B 펀딩 마감 임박... $900B 밸류로 OpenAI($852B) 첫 추월]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084401</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084401</guid>
+      <pubDate>Tue, 26 May 2026 23:44:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[Anthropic이 Sequoia·Dragoneer·Greenoaks·Altimeter 4사 공동 주관 30억 달러 신규 펀딩을 5월 말 마감한다. 프리머니 9,000억 달러로 OpenAI의 8,520억 달러를 사상 처음 추월하며, 3개월 만에 밸류가 3배로 폭증했다. 연 환산 매출(ARR)도 90억 → 450억 달러로 5배 점프했고 Q2 영업이익 첫 흑자가 확정된다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[AMD EPYC 'Venice' TSMC 2nm 양산 첫 진입... HPC 사상 첫, MI450X와 Helios 하반기 가동]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084402</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084402</guid>
+      <pubDate>Tue, 26 May 2026 23:44:00 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[AMD가 5월 21일 6세대 EPYC 프로세서 'Venice'를 TSMC 2nm(N2) 노드로 양산 진입했다고 발표했다. 고성능 컴퓨팅(HPC) 제품 중 사상 첫 2nm 양산이며, MI450X GPU와 결합한 Helios 랙 플랫폼은 2026년 하반기부터 멀티 GW급 데이터센터 배포 예정. 후속 'Verano' 칩도 동일 2nm로 확장된다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI 비공개 S-1 SEC 제출 확인... 9월 로드쇼·$1조 IPO 목표, Goldman·Morgan Stanley 주관]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084403</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084403</guid>
+      <pubDate>Tue, 26 May 2026 23:44:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[OpenAI가 5월 22일 SEC에 IPO 비공개 S-1 신고서를 정식 제출했다. 목표 시가총액 8,520억~1조 달러, 주관사는 Goldman Sachs와 Morgan Stanley. 9월 정식 로드쇼·Q4 2026 상장이 베이스 시나리오다. 다만 Q1 매출 1달러당 1.22달러 손실 구조와 Anthropic의 흑자 전환이 IPO 흥행에 결정적 변수로 떠올랐다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Google 'Gemini Omni' 정식 출시... 텍스트·이미지·오디오에서 영상까지 '세계 모델' 시동]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084404</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084404</guid>
+      <pubDate>Tue, 26 May 2026 23:44:00 GMT</pubDate>
+      <category>AI 연구</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[Google이 5월 19일 I/O 2026에서 멀티모달 세계 모델 'Gemini Omni'를 정식 공개했다. 텍스트·이미지·오디오·영상을 동시에 입력받아 시네마틱 영상을 생성하는 모델로, Pichai CEO가 '무엇이든 만드는 모델(create anything)'이라고 직접 강조했다. SynthID 워터마크 + 본인 인증 절차로 딥페이크 방어 체계를 함께 도입한다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic 'Project Glasswing' 가동... Claude Mythos가 1개월 만에 0-day 1만건 적발]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084405</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084405</guid>
+      <pubDate>Tue, 26 May 2026 23:44:00 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[Anthropic이 비공개 프론티어 모델 'Claude Mythos Preview'로 약 1개월간 1만 건 이상 고위험 0-day 취약점을 자동 발견했다. 모든 주요 OS·브라우저·필수 인프라가 대상이며, Microsoft·Apple·Google·AWS·Cloudflare·NVIDIA·JPMorgan 등 50여 개 기관이 컨소시엄으로 참여. Cloudflare 한 곳에서만 2,000건 적발, OpenBSD 27년 묵은 결함도 포착됐다.]]></description>
+    </item>
     <item>
       <title><![CDATA[교황 레오 14세, 첫 AI 회칙 'Magnifica Humanitas' 235쪽 공식 발표]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260526084401</link>
@@ -231,51 +276,6 @@
       <category>LLM</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[AI 선두 주자인 오픈AI가 차세대 대규모 언어 모델(LLM) 'GPT-5'의 출시를 앞두고 있다는 소식이 전해졌다. 기존 모델 대비 비약적인 성능 향상과 함께 새로운 차원의 AI 능력 선보일 것으로 예상된다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Gemini 4.0 키노트 직후 벤치마크 공개...MMLU-Pro 88.1점 GPT-5.5 추월, 가격 -40%]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090001</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-      <category>LLM</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[5월 19일(현지) Google I/O 2026 키노트에서 정식 공개된 Gemini 4.0이 MMLU-Pro 88.1점, SWE-bench Verified 79.3점, MMMU 81.4점으로 OpenAI GPT-5.5와 Claude Opus 4.5를 동시 추월했다. Pro 티어는 입력 $1.80/M·출력 $7.20/M으로 전 세대 대비 -40% 인하. Gemini Spark 에이전트 무료 티어 무제한, Android XR 글래스 9월 출시 확정. 알파벳 시가총액 18시간 만에 $3,200억 증가.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Computex 2026 황젠슨 깜짝 'Rubin Ultra' 공개...4년 만의 단일 GPU 6배 성능, 출시 12월]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090002</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-      <category>이벤트</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[5월 20일(현지) 대만 타이베이 Computex 2026 개막식에서 NVIDIA CEO 젠슨 황이 깜짝 발표한 차세대 GPU 'Rubin Ultra'가 단일 칩 2.6PFlops(FP8)·HBM4E 384GB·전력 1.6kW 사양으로 공개됐다. 이전 H100 대비 6배 성능. 12월 양산, 2027년 1월 첫 출하 예정. TSMC 1.4nm·삼성 HBM4E·SK 1c D램이 함께 공급망에 진입한다. 황 CEO 키노트 16분간 박수 19회 끊김.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[NAVER HyperCLOVA X 3.0 정식 출시...한국어 GPT-5.5 추월 91.4점, API 단가 -55%]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090003</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[NAVER가 5월 20일 오전 9시 HyperCLOVA X 3.0을 정식 출시했다. 한국어 능력 평가 KoMT-Bench 91.4점으로 GPT-5.5(87.2)·Claude Opus 4.5(86.8)를 동시 추월. API 단가는 입력 ₩0.9/1K 토큰, 출력 ₩2.7/1K 토큰으로 전 세대 대비 -55% 인하. 네이버 검색·쇼핑·블로그·페이·웍스 7개 서비스에 동시 통합. 6월 1일 기업용 'HyperCLOVA X Studio Pro' 출시 예고.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[EU AI Act 2단계 강제 시행...메타·X·바이두 '고위험 AI 미신고' 첫 과징금 4.2억 유로]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090004</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-      <category>정책</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[유럽연합이 5월 20일 0시부로 AI Act 2단계 강제 시행에 들어가며 메타(€1.8억)·X(€1.4억)·바이두(€1.0억) 등 빅테크 3사에 '고위험 AI 시스템 미신고' 첫 과징금 4.2억 유로를 일제 부과했다. AI Office는 추가로 8개사 사전 경고 발송. 한국 기업 중 NAVER·삼성전자·LG가 6월 30일까지 신고 의무 마감. 미준수 시 글로벌 매출 7% 과징금 위험.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[테슬라 Optimus 2.0 가격 $19,999 공개...2027년 출시·연 100만대 양산, 머스크 'iPhone 모먼트']]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090005</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520090005</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-      <category>테크</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[일론 머스크 테슬라 CEO가 5월 19일 X 라이브 방송에서 휴머노이드 로봇 'Optimus 2.0' 가격을 $19,999(약 2,700만 원)로 공개하고 2027년 1분기 출시, 첫해 양산 목표 100만 대를 발표했다. 손가락 22도 자유도, 작업 학습 90초, 음성 인터페이스 Grok 5 탑재. 머스크 '아이폰 모먼트의 로봇 버전'이라며 사전예약 24시간 만에 38만 대 돌파.]]></description>
     </item>
   </channel>
 </rss>
