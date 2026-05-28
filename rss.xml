@@ -1,12 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prompt Daily</title>
+    <title>Life Honey Tips</title>
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 26 May 2026 23:44:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 09:00:11 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[삼성전자, 차세대 AI 반도체 '뉴로칩' 양산 돌입]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180001</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180001</guid>
+      <pubDate>Thu, 28 May 2026 09:00:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[삼성전자가 2026년 5월 말, 획기적인 성능 향상을 이룬 차세대 AI 반도체 '뉴로칩'의 양산을 시작했다고 발표했습니다. 이 칩은 기존 대비 10배 이상의 연산 속도와 5배 이상의 전력 효율성을 자랑합니다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[구글, '제미나이 2.0' 공개… 멀티모달 AI의 진화]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180002</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180002</guid>
+      <pubDate>Thu, 28 May 2026 09:00:00 GMT</pubDate>
+      <category>LLM</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[구글이 2026년 5월 말, 차세대 대규모 언어 모델(LLM) '제미나이 2.0'을 공개하며 멀티모달 AI 기술의 새로운 기준을 제시했습니다. 텍스트, 이미지, 오디오, 비디오 등 다양한 형태의 데이터를 통합적으로 이해하고 생성하는 능력이 크게 향상되었습니다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[AI 윤리 가이드라인 강화… 정부, '책임 AI' 도입 박차]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180003</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180003</guid>
+      <pubDate>Thu, 28 May 2026 09:00:00 GMT</pubDate>
+      <category>정책</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[정부가 2026년 5월 말, AI 기술의 윤리적이고 책임감 있는 사용을 위한 새로운 가이드라인을 발표했습니다. 이는 AI 개발 및 활용 과정에서의 잠재적 위험을 최소화하고, 사회적 신뢰를 구축하는 데 중점을 두고 있습니다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[MIT, AI 기반 신약 개발 플랫폼 공개… 속도와 정확도 '혁신']]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180004</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180004</guid>
+      <pubDate>Thu, 28 May 2026 09:00:00 GMT</pubDate>
+      <category>AI 연구</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[매사추세츠 공과대학교(MIT) 연구진이 2026년 5월 말, AI를 활용하여 신약 후보 물질 발굴 및 효능 예측 시간을 획기적으로 단축하는 새로운 플랫폼을 공개했습니다. 이 플랫폼은 기존 방식 대비 수십 배 빠른 속도로 신약 개발 가능성을 제시합니다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[AI 기반 개인 맞춤형 교육 시장 급성장… 'AI 튜터' 시대 도래]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180005</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180005</guid>
+      <pubDate>Thu, 28 May 2026 09:00:00 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[AI 기술의 발전과 함께 개인 맞춤형 교육 시장이 2026년 5월 말, 폭발적인 성장세를 보이고 있습니다. 특히, 학생 개개인의 학습 수준과 속도에 최적화된 'AI 튜터' 서비스가 주목받으며 교육 패러다임 변화를 이끌고 있습니다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[SK하이닉스 시총 $1조 돌파... HBM 슈퍼사이클로 250% 폭등, 코스피 8,457 사상최고]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528084401</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528084401</guid>
+      <pubDate>Wed, 27 May 2026 23:44:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[SK하이닉스가 5월 27일 장중 14.9% 폭등으로 시총 1,680조 원(약 $1.12조) 돌파했다. 연초 이후 250% 폭등으로 한국 사상 두 번째, 메모리 반도체 사상 첫 '1조 달러 클럽' 진입. 코스피는 같은 날 +2.9% 상승해 8,457포인트 사상 최고치 갱신.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic 서울사무소 정식 개소... 최기영 CEO 선임, 韓 Claude 사용 3.5배 폭증]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528084402</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528084402</guid>
+      <pubDate>Wed, 27 May 2026 23:44:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[Anthropic이 5월 27일 '대한민국 법인 정식 출범 및 최기영 대표이사 선임'을 발표했다. 6월 중순 서울사무소 정식 개소 일정 확정. Anthropic Economic Index 기준 한국인의 Claude 일일 사용 빈도가 인구 비례 예상치 대비 3.5배 초과한 점이 결정적 근거.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Nvidia Vera Rubin NVL72, Computex 골든어워드 4관왕... 288GB HBM4·50PFLOPS H2 출시]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528084403</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528084403</guid>
+      <pubDate>Wed, 27 May 2026 23:44:00 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[엔비디아 차세대 AI 슈퍼컴퓨터 'Vera Rubin NVL72'가 5월 22일 대만 Computex 2026에서 골든어워드 4관왕을 차지했다. VR200 GPU는 288GB HBM4 + 50 PFLOPS FP4 컴퓨트로 Blackwell 대비 2.5배. 6월 1일 젠슨 황 키노트에서 정식 출시 일정 확정 예정.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Figure $10억 Series C 마감... Q1 글로벌 VC $3,000억 신기록, AI가 80% 차지]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528084404</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528084404</guid>
+      <pubDate>Wed, 27 May 2026 23:44:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[휴머노이드 로봇 Figure AI가 5월 27일 10억 달러 Series C 라운드를 $395억 밸류로 마감했다. Crunchbase 발표에 따르면 Q1 2026 글로벌 VC 펀딩은 6,000개 스타트업에 $3,000억 사상 최고치이며 AI 단독 분야가 $2,420억으로 전체의 80% 차지.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[정부 AI 예산 9.9조 확정, GPU 1.5만장 연내 확보... 데이터센터 전력 인센티브 6월 발표]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528084405</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528084405</guid>
+      <pubDate>Wed, 27 May 2026 23:44:00 GMT</pubDate>
+      <category>정책</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[정부가 5월 27일 'AI 기본계획 2026~2028 액션플랜'을 통해 연간 AI 예산 9조 9,000억 원·GPU 1만 5,000장 연내 추가 확보를 공식 확정했다. AI 데이터센터 전력·재생에너지 연계 인센티브 패키지는 2026년 6월 30일 정식 발표 예정.]]></description>
+    </item>
     <item>
       <title><![CDATA[Anthropic $30B 펀딩 마감 임박... $900B 밸류로 OpenAI($852B) 첫 추월]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084401</link>
@@ -186,96 +276,6 @@
       <category>정책</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[2,000여 글로벌 기업 대상 조사 결과 76%가 Chief AI Officer(CAIO)를 공식 임명한 것으로 5월 21일 확인됐다. 2025년 26%에서 +50%p 급증한 사상 최대 증가폭. 보드 차원의 AI 책임자 임명이 사실상 의무화 단계로 진입했다. 한국 금융위·산자부·과기정통부는 7월 'AI 경영 가이드라인' 합동 발표 예정. KOSPI 200 기업 CAIO 임명 의무화가 2027년 ESG 등급 평가에 반영된다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[오픈AI 공동창업자 카르파시, 앤트로픽 사전학습 신팀 합류... 'AI가 AI를 학습시키는 시대']]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093001</guid>
-      <pubDate>Thu, 21 May 2026 00:30:00 GMT</pubDate>
-      <category>LLM</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[Andrej Karpathy가 5월 19일 X 계정을 통해 Anthropic 사전학습팀(Nick Joseph 산하) 합류를 공식 발표했다. 4시간 만에 X 조회수 1,130만·좋아요 10.2만·리포스트 1.3만을 기록하며 올해 AI 업계 최대 인사 이슈로 떠올랐다. 동시 공개된 Anthropic 연환산 매출 300억 달러(1년 +233%)는 OpenAI 130억 달러의 2.3배다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[JP모건 2026 IT 예산 198억 달러 확정... AI를 '코어 인프라' 재분류, Wall Street 첫 사례]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093002</guid>
-      <pubDate>Thu, 21 May 2026 00:30:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[JPMorgan Chase가 2026년 IT 예산 198억 달러(약 27.4조 원)를 5월 20일 주주서한으로 공식 확정 발표했다. 핵심은 AI 지출을 R&D 실험성 비용에서 데이터센터·결제망·리스크 컨트롤과 동급의 코어 인프라로 재분류한 것이다. 비재량(non-discretionary) AI 예산이 연 20억 달러로 정식 회계 처리된다. 15만 명 직원 생산성 +10~11% 입증.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 'o1' 응급실 의사 진단력 추월... Science 본지 게재, 임상 데이터 76건 분석]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093003</guid>
-      <pubDate>Thu, 21 May 2026 00:30:00 GMT</pubDate>
-      <category>AI 연구</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[하버드 의대·베스 이스라엘 디코니스 메디컬센터 연구팀이 OpenAI의 o1-preview 모델이 응급실 의사들의 진단력을 객관적으로 추월했다는 대규모 임상 비교 연구를 4월 30일 Science 본지에 정식 게재했다. 보스턴 응급실 환자 76명의 실제 차트 데이터에서 o1은 78.9%의 정확 진단 포함률을 기록, 전문의 62.8%·GPT-4 56.4%를 압도했다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[정부, 업스테이지에 5,600억 직접 투자 확정... 국가성장펀드 'AI 주권' 두 번째 베팅]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093004</guid>
-      <pubDate>Thu, 21 May 2026 00:30:00 GMT</pubDate>
-      <category>정책</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[금융위원회 국가성장펀드 운용위원회가 5월 21일 정기 회의에서 한국 AI 스타트업 업스테이지(Upstage)에 5,600억 원(3.806억 달러) 직접 투자를 공식 의결했다. 국가성장펀드의 두 번째 직접 투자이자 유니콘 단일 베팅 사상 최대 규모. 고도전략산업 펀드 1,000억 원이 별도 투입돼 기업용 LLM 개발에 집중된다. 4월 누적 승인 8.4조 원(약 57억 달러).]]></description>
-    </item>
-    <item>
-      <title><![CDATA[AI 칩 부족 후폭풍, 2026 스마트폰 6.9%·PC 8% 가격 인상... 저가 브랜드 직격탄]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093005</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260521093005</guid>
-      <pubDate>Thu, 21 May 2026 00:30:00 GMT</pubDate>
-      <category>테크</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[대만 TrendForce·IDC·Counterpoint Research 3사 공동 보고서가 5월 21일 동시 발표됐다. AI 가속기·HBM 메모리·5nm 이하 첨단 노드 부족이 2026년 스마트폰 평균 가격을 +6.9%, PC 가격을 +8.0% 인상시킬 것이라는 전망. 게임 콘솔 PS6/Xbox 신형은 +12.4% 인상, 저가 브랜드 Xiaomi·Realme·Tecno는 +9.8~12.3% 가격 직격탄. 메모리 3사 영업이익 +84% 가속.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[삼성전자, 차세대 '갤럭시 링' AI 기능 대폭 강화]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180001</guid>
-      <pubDate>Wed, 20 May 2026 09:00:00 GMT</pubDate>
-      <category>테크</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[삼성전자가 2026년 출시 예정인 갤럭시 링에 강력한 AI 기반 건강 관리 기능을 탑재할 것으로 알려졌다. 개인 맞춤형 건강 분석 및 예측 기능이 강화될 전망이다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[네이버, '하이퍼클로바X' 기반 B2B AI 솔루션 확장 가속]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180002</guid>
-      <pubDate>Wed, 20 May 2026 09:00:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[네이버가 자체 개발한 초거대 AI 모델 '하이퍼클로바X'를 활용한 기업용(B2B) AI 솔루션 사업을 본격적으로 확장한다. 다양한 산업 분야에 특화된 AI 서비스를 제공하며 시장 공략에 나선다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[KAIST, '인간-AI 협업' 위한 차세대 인터페이스 연구 성과 발표]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180003</guid>
-      <pubDate>Wed, 20 May 2026 09:00:00 GMT</pubDate>
-      <category>AI 연구</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[한국과학기술원(KAIST) 연구팀이 인간과 AI의 효율적인 협업을 위한 혁신적인 인터페이스 기술 연구 성과를 발표했다. 직관적인 상호작용을 통해 AI의 잠재력을 극대화하는 데 초점을 맞췄다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[정부, AI 윤리 기준 강화…'책임감 있는 AI' 생태계 조성 박차]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180004</guid>
-      <pubDate>Wed, 20 May 2026 09:00:00 GMT</pubDate>
-      <category>정책</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[정부가 인공지능 기술의 윤리적이고 책임감 있는 사용을 위한 기준을 강화하고 나섰다. AI 개발 및 활용 전반에 걸쳐 투명성과 공정성을 확보하여 신뢰할 수 있는 AI 생태계를 구축하겠다는 방침이다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[오픈AI, 'GPT-5' 출시 임박…초지능 AI 향한 도약 시사]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180005</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260520180005</guid>
-      <pubDate>Wed, 20 May 2026 09:00:00 GMT</pubDate>
-      <category>LLM</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[AI 선두 주자인 오픈AI가 차세대 대규모 언어 모델(LLM) 'GPT-5'의 출시를 앞두고 있다는 소식이 전해졌다. 기존 모델 대비 비약적인 성능 향상과 함께 새로운 차원의 AI 능력 선보일 것으로 예상된다.]]></description>
     </item>
   </channel>
 </rss>
