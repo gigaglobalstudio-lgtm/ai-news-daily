@@ -1,12 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prompt Daily</title>
+    <title>Life Honey Tips</title>
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 03 Jun 2026 23:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 09:00:20 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[삼성, 차세대 AI 칩 '엑시노스 AI 2000' 공개… 성능 2배↑]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260606180001</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260606180001</guid>
+      <pubDate>Sat, 06 Jun 2026 09:00:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[삼성전자가 6일, 자체 개발한 차세대 AI 칩 '엑시노스 AI 2000'을 공개하며 모바일 AI 시장 경쟁에 본격적으로 뛰어들었다. 이번 신제품은 이전 세대 대비 AI 연산 성능이 2배 향상된 것으로 알려져, 스마트폰 및 웨어러블 기기의 AI 기능 대폭 강화가 기대된다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI, 'GPT-5' 출시 임박… 성능·안전성 '혁신' 예고]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260606180002</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260606180002</guid>
+      <pubDate>Sat, 06 Jun 2026 09:00:00 GMT</pubDate>
+      <category>LLM</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[AI 연구 선두주자 OpenAI가 차세대 대규모 언어 모델(LLM) 'GPT-5'의 출시를 임박했다고 공식 발표했다. 이번 모델은 이전 버전에 비해 추론 능력과 창의성이 비약적으로 향상되었으며, 더욱 강화된 안전 장치를 탑재한 것으로 알려져 AI 업계의 큰 주목을 받고 있다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[네이버, '하이퍼클로바X' 성능 대폭 강화… 기업용 AI 솔루션 강화]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260606180003</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260606180003</guid>
+      <pubDate>Sat, 06 Jun 2026 09:00:00 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[네이버가 자체 개발한 초대규모 AI 모델 '하이퍼클로바X'의 성능을 대폭 강화하고, 이를 기반으로 한 기업용 AI 솔루션 라인업을 확대한다고 6일 밝혔다. 이번 업데이트는 기업들의 디지털 전환을 가속화하고 생산성을 높이는 데 초점을 맞췄다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[AI 윤리 가이드라인 강화, 국내 기업 '책임감 있는 AI' 도입 가속]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260606180004</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260606180004</guid>
+      <pubDate>Sat, 06 Jun 2026 09:00:00 GMT</pubDate>
+      <category>정책</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[과학기술정보통신부가 6일, AI 기술의 건전한 발전과 사회적 신뢰 확보를 위한 'AI 윤리 가이드라인' 개정안을 발표했다. 이번 가이드라인 강화는 기업들의 책임감 있는 AI 개발 및 활용을 촉진하고, 잠재적 위험을 최소화하는 데 중점을 두었다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[MIT, AI 기반 신약 개발 플랫폼 '바이오AI' 공개… 개발 기간 50% 단축]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260606180005</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260606180005</guid>
+      <pubDate>Sat, 06 Jun 2026 09:00:00 GMT</pubDate>
+      <category>AI 연구</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[미국 MIT 연구진이 AI 기술을 활용하여 신약 개발 기간을 획기적으로 단축할 수 있는 새로운 플랫폼 '바이오AI'를 6일 공개했다. 이 플랫폼은 방대한 생물학적 데이터를 분석하고 약물 후보 물질을 빠르게 탐색하여 신약 개발의 패러다임을 바꿀 것으로 기대된다.]]></description>
+    </item>
     <item>
       <title><![CDATA[구글 제미나이 3.5 Pro, 6월 출시 임박…"200만 토큰·딥씽크" 정조준]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260604083005</link>
@@ -231,51 +276,6 @@
       <category>정책</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[정부가 5월 27일 'AI 기본계획 2026~2028 액션플랜'을 통해 연간 AI 예산 9조 9,000억 원·GPU 1만 5,000장 연내 추가 확보를 공식 확정했다. AI 데이터센터 전력·재생에너지 연계 인센티브 패키지는 2026년 6월 30일 정식 발표 예정.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic $30B 펀딩 마감 임박... $900B 밸류로 OpenAI($852B) 첫 추월]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084401</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084401</guid>
-      <pubDate>Tue, 26 May 2026 23:44:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[Anthropic이 Sequoia·Dragoneer·Greenoaks·Altimeter 4사 공동 주관 30억 달러 신규 펀딩을 5월 말 마감한다. 프리머니 9,000억 달러로 OpenAI의 8,520억 달러를 사상 처음 추월하며, 3개월 만에 밸류가 3배로 폭증했다. 연 환산 매출(ARR)도 90억 → 450억 달러로 5배 점프했고 Q2 영업이익 첫 흑자가 확정된다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[AMD EPYC 'Venice' TSMC 2nm 양산 첫 진입... HPC 사상 첫, MI450X와 Helios 하반기 가동]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084402</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084402</guid>
-      <pubDate>Tue, 26 May 2026 23:44:00 GMT</pubDate>
-      <category>테크</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[AMD가 5월 21일 6세대 EPYC 프로세서 'Venice'를 TSMC 2nm(N2) 노드로 양산 진입했다고 발표했다. 고성능 컴퓨팅(HPC) 제품 중 사상 첫 2nm 양산이며, MI450X GPU와 결합한 Helios 랙 플랫폼은 2026년 하반기부터 멀티 GW급 데이터센터 배포 예정. 후속 'Verano' 칩도 동일 2nm로 확장된다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI 비공개 S-1 SEC 제출 확인... 9월 로드쇼·$1조 IPO 목표, Goldman·Morgan Stanley 주관]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084403</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084403</guid>
-      <pubDate>Tue, 26 May 2026 23:44:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[OpenAI가 5월 22일 SEC에 IPO 비공개 S-1 신고서를 정식 제출했다. 목표 시가총액 8,520억~1조 달러, 주관사는 Goldman Sachs와 Morgan Stanley. 9월 정식 로드쇼·Q4 2026 상장이 베이스 시나리오다. 다만 Q1 매출 1달러당 1.22달러 손실 구조와 Anthropic의 흑자 전환이 IPO 흥행에 결정적 변수로 떠올랐다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Google 'Gemini Omni' 정식 출시... 텍스트·이미지·오디오에서 영상까지 '세계 모델' 시동]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084404</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084404</guid>
-      <pubDate>Tue, 26 May 2026 23:44:00 GMT</pubDate>
-      <category>AI 연구</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[Google이 5월 19일 I/O 2026에서 멀티모달 세계 모델 'Gemini Omni'를 정식 공개했다. 텍스트·이미지·오디오·영상을 동시에 입력받아 시네마틱 영상을 생성하는 모델로, Pichai CEO가 '무엇이든 만드는 모델(create anything)'이라고 직접 강조했다. SynthID 워터마크 + 본인 인증 절차로 딥페이크 방어 체계를 함께 도입한다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic 'Project Glasswing' 가동... Claude Mythos가 1개월 만에 0-day 1만건 적발]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084405</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260527084405</guid>
-      <pubDate>Tue, 26 May 2026 23:44:00 GMT</pubDate>
-      <category>테크</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[Anthropic이 비공개 프론티어 모델 'Claude Mythos Preview'로 약 1개월간 1만 건 이상 고위험 0-day 취약점을 자동 발견했다. 모든 주요 OS·브라우저·필수 인프라가 대상이며, Microsoft·Apple·Google·AWS·Cloudflare·NVIDIA·JPMorgan 등 50여 개 기관이 컨소시엄으로 참여. Cloudflare 한 곳에서만 2,000건 적발, OpenBSD 27년 묵은 결함도 포착됐다.]]></description>
     </item>
   </channel>
 </rss>
