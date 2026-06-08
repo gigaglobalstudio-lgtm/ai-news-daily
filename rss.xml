@@ -5,8 +5,53 @@
     <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily</link>
     <description>매일 아침 AI가 바꾸는 세상 — 쏟아지는 AI 뉴스 중 꼭 알아야 할 것만</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 07 Jun 2026 09:00:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 09:00:19 GMT</lastBuildDate>
     <atom:link href="https://gigaglobalstudio-lgtm.github.io/prompt-daily/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[AI 연구, '자가 학습' 능력 획기적 향상…미래 AI 발전 가속화]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260608180005</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260608180005</guid>
+      <pubDate>Mon, 08 Jun 2026 09:00:05 GMT</pubDate>
+      <category>AI 연구</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[최근 AI 연구 분야에서 '자가 학습' 능력이 획기적으로 향상된 새로운 알고리즘이 발표되었다. 이 알고리즘은 외부 데이터 없이도 스스로 학습하고 발전하는 능력이 뛰어나, 미래 AI 발전의 속도를 더욱 가속화할 것으로 전망된다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[AI 스타트업 '뉴럴링크', 뇌-컴퓨터 인터페이스 기술로 500억 투자 유치]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260608180004</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260608180004</guid>
+      <pubDate>Mon, 08 Jun 2026 09:00:04 GMT</pubDate>
+      <category>기업 AI</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[뇌-컴퓨터 인터페이스(BCI) 기술을 개발하는 AI 스타트업 뉴럴링크가 500억 원 규모의 시리즈 B 투자를 성공적으로 유치했다. 이번 투자 유치를 통해 뉴럴링크는 기술 개발 및 상용화에 더욱 속도를 낼 전망이다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[정부, 'AI 윤리 가이드라인' 전면 개정…기업 책임 강화]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260608180003</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260608180003</guid>
+      <pubDate>Mon, 08 Jun 2026 09:00:03 GMT</pubDate>
+      <category>정책</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[정부가 급변하는 AI 기술 발전에 맞춰 'AI 윤리 가이드라인'을 전면 개정하고 기업의 책임성을 더욱 강화하는 방향으로 발표했다. 이는 AI 기술의 건전한 발전과 사회적 수용성을 높이기 위한 조치로 풀이된다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI, 'GPT-5' 한국어 성능 대폭 향상…번역 정확도 95% 돌파]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260608180002</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260608180002</guid>
+      <pubDate>Mon, 08 Jun 2026 09:00:02 GMT</pubDate>
+      <category>LLM</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[OpenAI가 차세대 언어 모델 'GPT-5'의 한국어 처리 능력을 획기적으로 개선했다고 발표했다. 특히 한국어 번역의 정확도가 95%를 돌파하며, 한국어 기반의 AI 서비스 개발에 새로운 가능성을 열었다.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[삼성, 차세대 '온디바이스 AI' 칩 공개…스마트폰 성능 혁신 예고]]></title>
+      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260608180001</link>
+      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260608180001</guid>
+      <pubDate>Mon, 08 Jun 2026 09:00:01 GMT</pubDate>
+      <category>테크</category>
+      <author>Prompt Daily 편집팀</author>
+      <description><![CDATA[삼성전자가 자체 개발한 차세대 온디바이스 AI 칩을 공개하며 스마트폰 시장의 새로운 가능성을 열었다. 이 칩은 기기 자체에서 AI 연산을 수행하여 개인정보 보호 강화와 함께 더욱 빠르고 효율적인 AI 경험을 제공할 것으로 기대된다.]]></description>
+    </item>
     <item>
       <title><![CDATA[삼성, 3나노 공정 AI 칩 생산 속도 높인다]]></title>
       <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260607180001</link>
@@ -231,51 +276,6 @@
       <category>기업 AI</category>
       <author>Prompt Daily 편집팀</author>
       <description><![CDATA[삼성전자가 차세대 온디바이스 AI 기술을 탑재한 '갤럭시 AI 2.0'을 공개하며 스마트폰 AI 경쟁에 불을 지폈다. 특히 실시간 통역 기능이 크게 향상되어 언어 장벽 없는 소통 시대를 예고하고 있다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[삼성전자, 차세대 AI 반도체 '뉴로칩' 양산 돌입]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180001</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180001</guid>
-      <pubDate>Thu, 28 May 2026 09:00:00 GMT</pubDate>
-      <category>기업 AI</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[삼성전자가 2026년 5월 말, 획기적인 성능 향상을 이룬 차세대 AI 반도체 '뉴로칩'의 양산을 시작했다고 발표했습니다. 이 칩은 기존 대비 10배 이상의 연산 속도와 5배 이상의 전력 효율성을 자랑합니다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[구글, '제미나이 2.0' 공개… 멀티모달 AI의 진화]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180002</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180002</guid>
-      <pubDate>Thu, 28 May 2026 09:00:00 GMT</pubDate>
-      <category>LLM</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[구글이 2026년 5월 말, 차세대 대규모 언어 모델(LLM) '제미나이 2.0'을 공개하며 멀티모달 AI 기술의 새로운 기준을 제시했습니다. 텍스트, 이미지, 오디오, 비디오 등 다양한 형태의 데이터를 통합적으로 이해하고 생성하는 능력이 크게 향상되었습니다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[AI 윤리 가이드라인 강화… 정부, '책임 AI' 도입 박차]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180003</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180003</guid>
-      <pubDate>Thu, 28 May 2026 09:00:00 GMT</pubDate>
-      <category>정책</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[정부가 2026년 5월 말, AI 기술의 윤리적이고 책임감 있는 사용을 위한 새로운 가이드라인을 발표했습니다. 이는 AI 개발 및 활용 과정에서의 잠재적 위험을 최소화하고, 사회적 신뢰를 구축하는 데 중점을 두고 있습니다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[MIT, AI 기반 신약 개발 플랫폼 공개… 속도와 정확도 '혁신']]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180004</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180004</guid>
-      <pubDate>Thu, 28 May 2026 09:00:00 GMT</pubDate>
-      <category>AI 연구</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[매사추세츠 공과대학교(MIT) 연구진이 2026년 5월 말, AI를 활용하여 신약 후보 물질 발굴 및 효능 예측 시간을 획기적으로 단축하는 새로운 플랫폼을 공개했습니다. 이 플랫폼은 기존 방식 대비 수십 배 빠른 속도로 신약 개발 가능성을 제시합니다.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[AI 기반 개인 맞춤형 교육 시장 급성장… 'AI 튜터' 시대 도래]]></title>
-      <link>https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180005</link>
-      <guid isPermaLink="true">https://gigaglobalstudio-lgtm.github.io/prompt-daily/article/20260528180005</guid>
-      <pubDate>Thu, 28 May 2026 09:00:00 GMT</pubDate>
-      <category>테크</category>
-      <author>Prompt Daily 편집팀</author>
-      <description><![CDATA[AI 기술의 발전과 함께 개인 맞춤형 교육 시장이 2026년 5월 말, 폭발적인 성장세를 보이고 있습니다. 특히, 학생 개개인의 학습 수준과 속도에 최적화된 'AI 튜터' 서비스가 주목받으며 교육 패러다임 변화를 이끌고 있습니다.]]></description>
     </item>
   </channel>
 </rss>
