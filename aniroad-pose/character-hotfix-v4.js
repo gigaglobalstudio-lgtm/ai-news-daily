@@ -5,6 +5,7 @@
   let pose = "heart";
   let active = false;
   let successUntil = 0;
+  let domLayer;
 
   function loadImages() {
     document.querySelectorAll("[data-character]").forEach((img) => {
@@ -17,6 +18,49 @@
       img.src = ASSETS[key] || "";
       images[key] = img;
     });
+  }
+
+  function buildDomFallback() {
+    const stage = document.getElementById("stage");
+    if (!stage || document.getElementById("aniroadCharacterLayer")) return;
+    const style = document.createElement("style");
+    style.textContent = `
+      #aniroadCharacterLayer{position:absolute;inset:0;z-index:5;overflow:hidden;pointer-events:none;display:none}
+      #aniroadCharacterLayer.on{display:block}
+      #aniroadCharacterLayer img{position:absolute;bottom:3%;width:auto;opacity:.52;filter:drop-shadow(0 12px 22px rgba(0,0,0,.55));transition:opacity .2s,transform .25s;transform-origin:50% 100%}
+      #aniroadCharacterLayer.success img{opacity:.98;animation:aniCharPop .5s cubic-bezier(.2,.9,.2,1.2) both}
+      @keyframes aniCharPop{0%{transform:translateY(28px) scale(.82)}100%{transform:translateY(0) scale(1)}}`;
+    document.head.appendChild(style);
+    domLayer = document.createElement("div");
+    domLayer.id = "aniroadCharacterLayer";
+    keys.forEach((key) => {
+      const img = document.createElement("img");
+      img.dataset.key = key;
+      img.src = ASSETS[key] || "";
+      img.alt = "";
+      domLayer.appendChild(img);
+    });
+    stage.appendChild(domLayer);
+    updateDomFallback();
+  }
+
+  function updateDomFallback() {
+    if (!domLayer) return;
+    domLayer.classList.toggle("on", active);
+    const success = performance.now() < successUntil;
+    domLayer.classList.toggle("success", success);
+    const all = Object.fromEntries([...domLayer.querySelectorAll("img")].map((img) => [img.dataset.key, img]));
+    Object.values(all).forEach((img) => { img.style.display = "none"; img.style.transform = "none"; });
+    const show = (key, left, height, flip = false) => {
+      const img = all[key]; if (!img) return;
+      img.style.display = "block"; img.style.left = left; img.style.height = height;
+      img.style.transform = flip ? "scaleX(-1)" : "none";
+    };
+    if (pose === "heart") show("green", "68%", "43%");
+    else if (pose === "jump") show("goggles", "3%", "47%", true);
+    else if (pose === "mimic") show("zombie", "68%", "44%");
+    else if (pose === "highfive") { show("red", "2%", "39%", true); show("green", "70%", "39%"); }
+    else { show("red", "1%", "29%", true); show("goggles", "25%", "31%", true); show("green", "51%", "29%"); show("zombie", "76%", "28%"); }
   }
 
   function drawOne(ctx, img, x, bottom, height, options = {}) {
@@ -80,17 +124,22 @@
 
   function init() {
     loadImages();
+    buildDomFallback();
     patchCanvas();
     document.querySelectorAll(".pose-tab").forEach((button) => {
-      button.addEventListener("click", () => { pose = button.dataset.pose || "heart"; });
+      button.addEventListener("click", () => { pose = button.dataset.pose || "heart"; updateDomFallback(); });
     });
     const banner = document.getElementById("successBanner");
     if (banner) {
       new MutationObserver(() => {
-        if (banner.classList.contains("show")) successUntil = performance.now() + 3200;
+        if (banner.classList.contains("show")) {
+          successUntil = performance.now() + 3200;
+          updateDomFallback();
+          setTimeout(updateDomFallback, 3250);
+        }
       }).observe(banner, { attributes: true, attributeFilter: ["class"] });
     }
-    document.getElementById("startButton")?.addEventListener("click", () => { active = true; });
+    document.getElementById("startButton")?.addEventListener("click", () => { active = true; updateDomFallback(); });
   }
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init, { once: true });
