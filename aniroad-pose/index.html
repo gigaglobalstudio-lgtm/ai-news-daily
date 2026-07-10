@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#171222" />
+  <meta name="description" content="순천 애니로드 AI 포즈 인식 AR 캐릭터 포토존 PoC" />
+  <meta property="og:title" content="순천 애니로드 AI 포즈 포토존" />
+  <meta property="og:description" content="손하트·점프·하이파이브·단체 포즈를 인식해 AR 애니메이션이 실행되는 웹 포토존" />
+  <title>순천 애니로드 | AI 포즈 포토존</title>
+  <link rel="icon" href="https://cdn.jsdelivr.net/gh/gigaglobalstudio-lgtm/fyf-pages@b23babab42c2613f8fe9178ee56dfa5578617283/aniroad-pose/icon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/gigaglobalstudio-lgtm/fyf-pages@0e13ea5c472d6eade40619e77dbbfd9b59512911/aniroad-pose/styles.css" />
+</head>
+<body>
+  <main class="app-shell">
+    <header class="brand-bar">
+      <div><p class="eyebrow">SUNCHEON ANI-ROAD · PoC</p><h1>AI 포즈 포토존</h1></div>
+      <button id="metricsButton" class="icon-button" type="button" aria-label="운영 데이터 보기" title="운영 데이터">▦</button>
+    </header>
+
+    <section id="stage" class="stage" aria-label="카메라 포토존">
+      <video id="camera" autoplay muted playsinline></video>
+      <canvas id="overlay" aria-hidden="true"></canvas>
+      <div class="stage-vignette" aria-hidden="true"></div>
+      <div class="top-status">
+        <span id="aiStatus" class="status-pill loading"><i></i> AI 준비 중</span>
+        <span id="peopleStatus" class="status-pill">0명 감지</span>
+      </div>
+      <div id="guideFrame" class="guide-frame" aria-hidden="true">
+        <span class="corner tl"></span><span class="corner tr"></span><span class="corner bl"></span><span class="corner br"></span>
+      </div>
+      <div id="successBanner" class="success-banner" role="status" aria-live="polite">
+        <strong id="successTitle">포즈 성공!</strong><span id="successSub">AR 애니메이션이 시작됩니다</span>
+      </div>
+      <div id="countdown" class="countdown" aria-live="assertive"></div>
+      <div id="instruction" class="instruction-card">
+        <div id="poseIcon" class="pose-icon">♡</div>
+        <div><strong id="poseName">손하트</strong><p id="poseHint">두 손을 머리 위에서 모아 하트를 만들어보세요.</p></div>
+        <div class="progress-ring" aria-label="포즈 인식 진행률">
+          <svg viewBox="0 0 44 44"><circle class="track" cx="22" cy="22" r="18"></circle><circle id="progressCircle" class="value" cx="22" cy="22" r="18"></circle></svg>
+          <span id="progressText">0%</span>
+        </div>
+      </div>
+      <div id="permissionScreen" class="permission-screen">
+        <div class="permission-art" aria-hidden="true"><div class="mascot bunny">◕‿◕</div><div class="spark">✦</div><div class="mascot cat">=^·ω·^=</div></div>
+        <p class="permission-label">순천 애니로드 실증형 콘텐츠</p>
+        <h2>포즈를 취하면<br />캐릭터 세계가 열려요</h2>
+        <p class="permission-copy">손하트·점프·따라 하기·하이파이브·단체 포즈를 AI가 인식해 AR 효과와 사진을 만들어줍니다.</p>
+        <button id="startButton" class="primary-button" type="button">카메라 시작하기</button>
+        <p class="privacy-note">얼굴을 식별하지 않으며, 카메라 영상은 서버로 전송하거나 저장하지 않습니다.</p>
+      </div>
+    </section>
+
+    <nav class="pose-nav" aria-label="포즈 선택">
+      <button class="pose-tab active" type="button" data-pose="heart"><span>♡</span>손하트</button>
+      <button class="pose-tab" type="button" data-pose="jump"><span>↟</span>점프</button>
+      <button class="pose-tab" type="button" data-pose="mimic"><span>☆</span>따라하기</button>
+      <button class="pose-tab" type="button" data-pose="highfive"><span>✋</span>하이파이브</button>
+      <button class="pose-tab" type="button" data-pose="family"><span>♧</span>단체포즈</button>
+    </nav>
+
+    <section class="controls" aria-label="촬영 제어">
+      <button id="switchButton" class="control-button" type="button" disabled><span>⇄</span>카메라 전환</button>
+      <button id="captureButton" class="shutter" type="button" disabled aria-label="사진 촬영"><span></span></button>
+      <button id="guideButton" class="control-button active" type="button" disabled><span>◎</span>AI 가이드</button>
+    </section>
+    <footer class="app-footer"><p>모든 AI 연산은 사용자의 브라우저 안에서 실행됩니다.</p><button id="installButton" class="text-button hidden" type="button">홈 화면에 설치</button></footer>
+  </main>
+
+  <dialog id="resultDialog" class="result-dialog"><div class="dialog-card">
+    <button id="closeResult" class="dialog-close" type="button" aria-label="닫기">×</button>
+    <p class="dialog-eyebrow">ANI-ROAD MEMORY</p><h2>오늘의 애니로드 한 컷</h2>
+    <img id="resultImage" alt="촬영한 애니로드 포토존 사진" />
+    <div class="dialog-actions"><button id="shareButton" class="primary-button" type="button">사진 공유하기</button><button id="downloadButton" class="secondary-button" type="button">사진 저장하기</button></div>
+    <p class="result-note">사진은 이 기기에만 생성되며 자동 업로드되지 않습니다.</p>
+  </div></dialog>
+
+  <dialog id="metricsDialog" class="metrics-dialog"><div class="dialog-card metrics-card">
+    <button id="closeMetrics" class="dialog-close" type="button" aria-label="닫기">×</button>
+    <p class="dialog-eyebrow">LOCAL PoC DASHBOARD</p><h2>현장 운영 데이터</h2>
+    <p class="metrics-desc">이 기기에서 발생한 익명 이벤트만 집계합니다. 키오스크·운영 태블릿 실증용입니다.</p>
+    <div id="metricGrid" class="metric-grid"></div><div id="poseMetrics" class="pose-metrics"></div>
+    <div class="dialog-actions stacked"><button id="exportButton" class="secondary-button" type="button">CSV 내보내기</button><button id="resetMetricsButton" class="danger-button" type="button">이 기기 데이터 초기화</button></div>
+  </div></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="https://cdn.jsdelivr.net/gh/gigaglobalstudio-lgtm/fyf-pages@0e13ea5c472d6eade40619e77dbbfd9b59512911/aniroad-pose/app.js"></script>
+</body>
+</html>
