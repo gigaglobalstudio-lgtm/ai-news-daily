@@ -4,17 +4,21 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <meta name="theme-color" content="#171222" />
-  <meta name="description" content="순천 애니로드 AI 포즈 인식 AR 캐릭터 포토존 Character Edition" />
+  <meta name="description" content="순천 애니로드 AI 포즈 인식 AR 캐릭터 포토존 Character Edition v4" />
   <meta property="og:title" content="순천 애니로드 AI 포즈 포토존" />
   <meta property="og:description" content="손하트·점프·하이파이브·단체 포즈를 인식해 애니로드 캐릭터와 AR 사진을 만드는 웹 포토존" />
   <title>순천 애니로드 | AI 포즈 포토존</title>
   <link rel="icon" href="https://cdn.jsdelivr.net/gh/gigaglobalstudio-lgtm/fyf-pages@b23babab42c2613f8fe9178ee56dfa5578617283/aniroad-pose/icon.svg" type="image/svg+xml" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/gigaglobalstudio-lgtm/fyf-pages@0e13ea5c472d6eade40619e77dbbfd9b59512911/aniroad-pose/styles.css" />
+  <style>
+    .permission-character { width:auto; object-fit:contain; filter:drop-shadow(0 12px 18px rgba(0,0,0,.42)); }
+    .character-version { position:absolute; z-index:21; right:10px; bottom:10px; padding:4px 8px; border-radius:999px; background:rgba(0,0,0,.48); color:#ffd991; font:700 9px/1 system-ui,sans-serif; letter-spacing:.06em; }
+  </style>
 </head>
 <body>
   <main class="app-shell">
     <header class="brand-bar">
-      <div><p class="eyebrow">SUNCHEON ANI-ROAD · CHARACTER EDITION</p><h1>AI 포즈 포토존</h1></div>
+      <div><p class="eyebrow">SUNCHEON ANI-ROAD · CHARACTER EDITION V4</p><h1>AI 포즈 포토존</h1></div>
       <button id="metricsButton" class="icon-button" type="button" aria-label="운영 데이터 보기" title="운영 데이터">▦</button>
     </header>
 
@@ -42,17 +46,18 @@
         </div>
       </div>
       <div id="permissionScreen" class="permission-screen">
-        <div class="permission-art" aria-hidden="true" style="width:min(94%,390px);height:154px;display:flex;align-items:flex-end;justify-content:center;gap:0;margin-bottom:14px">
-          <img src="./assets/red.svg?v=3" alt="" style="height:126px;width:auto;margin-right:-8px;filter:drop-shadow(0 12px 18px rgba(0,0,0,.38));transform:rotate(-4deg)" />
-          <img src="./assets/goggles.svg?v=3" alt="" style="height:143px;width:auto;margin-right:-7px;filter:drop-shadow(0 12px 18px rgba(0,0,0,.38));transform:rotate(2deg)" />
-          <img src="./assets/green.svg?v=3" alt="" style="height:132px;width:auto;margin-right:-9px;filter:drop-shadow(0 12px 18px rgba(0,0,0,.38));transform:rotate(-2deg)" />
-          <img src="./assets/zombie.svg?v=3" alt="" style="height:119px;width:auto;filter:drop-shadow(0 12px 18px rgba(0,0,0,.38));transform:rotate(4deg)" />
+        <div class="permission-art" aria-hidden="true" style="width:min(96%,410px);height:158px;display:flex;align-items:flex-end;justify-content:center;gap:0;margin-bottom:12px">
+          <img class="permission-character" data-character="red" alt="" style="height:128px;margin-right:-8px;transform:rotate(-4deg)" />
+          <img class="permission-character" data-character="goggles" alt="" style="height:148px;margin-right:-8px;transform:rotate(2deg)" />
+          <img class="permission-character" data-character="green" alt="" style="height:136px;margin-right:-10px;transform:rotate(-2deg)" />
+          <img class="permission-character" data-character="zombie" alt="" style="height:122px;transform:rotate(4deg)" />
         </div>
         <p class="permission-label">순천 애니로드 실증형 콘텐츠</p>
-        <h2>포즈를 취하면<br />캐릭터들이 나타나요</h2>
-        <p class="permission-copy">손하트·점프·따라 하기·하이파이브·단체 포즈를 AI가 인식해 네 캐릭터와 AR 효과가 포함된 사진을 만들어줍니다.</p>
+        <h2>포즈를 취하면<br />캐릭터들이 바로 나타나요</h2>
+        <p class="permission-copy">캐릭터가 포즈 선택 즉시 화면에 미리 보이고, 포즈 성공 시 AR 효과와 함께 최종 사진에 합성됩니다.</p>
         <button id="startButton" class="primary-button" type="button">카메라 시작하기</button>
         <p class="privacy-note">얼굴을 식별하지 않으며, 카메라 영상은 서버로 전송하거나 저장하지 않습니다.</p>
+        <span class="character-version">CHARACTER V4</span>
       </div>
     </section>
 
@@ -88,6 +93,12 @@
     <div class="dialog-actions stacked"><button id="exportButton" class="secondary-button" type="button">CSV 내보내기</button><button id="resetMetricsButton" class="danger-button" type="button">이 기기 데이터 초기화</button></div>
   </div></dialog>
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
-  <script type="module" src="./app.js?v=20260710-character-v3"></script>
+
+  <script src="./char-green-v4.js?v=20260710-2"></script>
+  <script src="./char-red-v4.js?v=20260710-2"></script>
+  <script src="./char-goggles-v4.js?v=20260710-2"></script>
+  <script src="./char-zombie-v4.js?v=20260710-2"></script>
+  <script type="module" src="./app.js?v=20260710-character-v4"></script>
+  <script src="./character-hotfix-v4.js?v=20260710-2"></script>
 </body>
 </html>
