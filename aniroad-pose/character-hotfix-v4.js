@@ -2,6 +2,9 @@
   const ASSETS = window.ANIROAD_CHARACTERS || {};
   const images = {};
   const keys = ["green", "red", "goggles", "zombie"];
+  let pose = "heart";
+  let active = false;
+  let successUntil = 0;
 
   function loadImages() {
     document.querySelectorAll("[data-character]").forEach((img) => {
@@ -16,19 +19,11 @@
     });
   }
 
-  let pose = "heart";
-  let active = false;
-  let successUntil = 0;
-
-  function selectPose(value) {
-    pose = value || "heart";
-  }
-
   function drawOne(ctx, img, x, bottom, height, options = {}) {
     if (!img || !img.complete || !img.naturalWidth) return;
     const width = height * img.naturalWidth / img.naturalHeight;
     ctx.save();
-    ctx.globalAlpha = options.alpha ?? 0.48;
+    ctx.globalAlpha = options.alpha ?? 0.5;
     ctx.translate(x, bottom + (options.bob || 0));
     if (options.flip) ctx.scale(-1, 1);
     ctx.shadowColor = options.glow || "rgba(255,220,120,.55)";
@@ -37,19 +32,14 @@
     ctx.restore();
   }
 
-  function render(now) {
-    const canvas = document.getElementById("overlay");
-    const video = document.getElementById("camera");
-    if (!active || !canvas || !video || !video.srcObject || !canvas.width) {
-      requestAnimationFrame(render);
-      return;
-    }
-
-    const ctx = canvas.getContext("2d");
+  function drawCharacters(ctx, now) {
+    if (!active) return;
+    const canvas = ctx.canvas;
+    if (!canvas.width || !canvas.height) return;
     const w = canvas.width;
     const h = canvas.height;
     const success = now < successUntil || document.getElementById("successBanner")?.classList.contains("show");
-    const alpha = success ? 0.98 : 0.48;
+    const alpha = success ? 0.98 : 0.52;
     const scale = success ? 1.12 : 1;
     const bob = Math.sin(now / (success ? 130 : 420)) * h * (success ? 0.012 : 0.004);
 
@@ -67,23 +57,32 @@
       const centers = [0.12, 0.37, 0.63, 0.88];
       const charKeys = ["red", "goggles", "green", "zombie"];
       charKeys.forEach((key, i) => drawOne(ctx, images[key], w * centers[i], h * 0.99, h * (i === 1 ? 0.30 : 0.28) * scale, {
-        alpha, bob: Math.sin(now / 260 + i) * h * 0.004, flip: i < 2,
+        alpha,
+        bob: Math.sin(now / 260 + i) * h * 0.004,
+        flip: i < 2,
         glow: ["rgba(255,90,75,.75)", "rgba(255,210,70,.75)", "rgba(100,255,130,.72)", "rgba(166,105,255,.78)"][i]
       }));
     }
-    requestAnimationFrame(render);
   }
 
-  function startHotfix() {
-    if (active) return;
-    active = true;
-    requestAnimationFrame(render);
+  function patchCanvas() {
+    const canvas = document.getElementById("overlay");
+    if (!canvas) return;
+    const ctx = canvas.getContext("2d");
+    if (ctx.__aniroadCharacterPatched) return;
+    const originalClearRect = ctx.clearRect.bind(ctx);
+    ctx.clearRect = (...args) => {
+      originalClearRect(...args);
+      drawCharacters(ctx, performance.now());
+    };
+    ctx.__aniroadCharacterPatched = true;
   }
 
   function init() {
     loadImages();
+    patchCanvas();
     document.querySelectorAll(".pose-tab").forEach((button) => {
-      button.addEventListener("click", () => selectPose(button.dataset.pose));
+      button.addEventListener("click", () => { pose = button.dataset.pose || "heart"; });
     });
     const banner = document.getElementById("successBanner");
     if (banner) {
@@ -91,9 +90,7 @@
         if (banner.classList.contains("show")) successUntil = performance.now() + 3200;
       }).observe(banner, { attributes: true, attributeFilter: ["class"] });
     }
-    document.getElementById("startButton")?.addEventListener("click", () => setTimeout(startHotfix, 1300));
-    const video = document.getElementById("camera");
-    if (video?.srcObject) startHotfix();
+    document.getElementById("startButton")?.addEventListener("click", () => { active = true; });
   }
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init, { once: true });
