@@ -1,0 +1,10 @@
+{
+  "name": "순천 애니로드 AI 캐릭터 여정",
+  "short_name": "애니로드",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#100c18",
+  "theme_color": "#171124",
+  "description": "5-Spot AI 캐릭터 포토존·스탬프·쿠폰 PoC",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
